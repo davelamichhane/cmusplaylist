@@ -1,0 +1,4263 @@
+[
+  {
+    "folderId": "2RGP",
+    "folderName": "Bob Marley",
+    "pathToFolder": "/home/dave/Music/Bob Marley",
+    "contentsOfFolder": [
+      {
+        "folderId": "XWAT",
+        "folderName": "Bob Marley - 1967 - Keep On Skanking",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking",
+        "contentsOfFolder": [
+          {
+            "songId": "QATR",
+            "songTitle": "All In One",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/01 - All In One.mp3"
+          },
+          {
+            "songId": "AK6S",
+            "songTitle": "Keep On Moving",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/02 - Keep On Moving.mp3"
+          },
+          {
+            "songId": "MP4Q",
+            "songTitle": "Keep On Skanking",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/03 - Keep On Skanking.mp3"
+          },
+          {
+            "songId": "J7UM",
+            "songTitle": "Shocks Of Mighty (Soul Almighty Ve",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/04 - Shocks Of Mighty (Soul Almighty Ve.mp3"
+          },
+          {
+            "songId": "V0RV",
+            "songTitle": "Brand New Second Hand",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/05 - Brand New Second Hand.mp3"
+          },
+          {
+            "songId": "YH21",
+            "songTitle": "Jungle Dub",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/06 - Jungle Dub.mp3"
+          },
+          {
+            "songId": "P01M",
+            "songTitle": "Satisfy My Soul Babe (Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/07 - Satisfy My Soul Babe (Version).mp3"
+          },
+          {
+            "songId": "6CMP",
+            "songTitle": "Dracula (Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/08 - Dracula (Version).mp3"
+          },
+          {
+            "songId": "A2YQ",
+            "songTitle": "Vs",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/09 - Vs. Lee Scratch Perry Dreamland (Featuring Bunny Wailer).mp3"
+          },
+          {
+            "songId": "J8R5",
+            "songTitle": "Comma Comma",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1967 - Keep On Skanking/10 - Comma Comma.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "KYY4",
+        "folderName": "Bob Marley - 1970 - African Herbsman",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman",
+        "contentsOfFolder": [
+          {
+            "songId": "28L9",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/02 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "84QX",
+            "songTitle": "Sun Is Shinning (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/03 - Sun Is Shinning (Original).mp3"
+          },
+          {
+            "songId": "GTBQ",
+            "songTitle": "Trench Town Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/04 - Trench Town Rock.mp3"
+          },
+          {
+            "songId": "PE1F",
+            "songTitle": "Small Axe",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/05 - Small Axe.mp3"
+          },
+          {
+            "songId": "ZNG5",
+            "songTitle": "Put It On",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/06 - Put It On.mp3"
+          },
+          {
+            "songId": "H16K",
+            "songTitle": "Kaya",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/07 - Kaya.mp3"
+          },
+          {
+            "songId": "NVHE",
+            "songTitle": "400 Years",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/08 - 400 Years.mp3"
+          },
+          {
+            "songId": "5KE1",
+            "songTitle": "Brain Washing",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/09 - Brain Washing.mp3"
+          },
+          {
+            "songId": "7DGL",
+            "songTitle": "African Herbman",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/10 - African Herbman.mp3"
+          },
+          {
+            "songId": "QYN2",
+            "songTitle": "Stand Alone",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/11 - Stand Alone.mp3"
+          },
+          {
+            "songId": "EIVW",
+            "songTitle": "Duppy Conqueror",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1970 - African Herbsman/12 - Duppy Conqueror.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "F05N",
+        "folderName": "Bob Marley - 1972 - Best Of The Wailers",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers",
+        "contentsOfFolder": [
+          {
+            "songId": "5FUW",
+            "songTitle": "Go, Tell It On The Mountain",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/01 - Go, Tell It On The Mountain.mp3"
+          },
+          {
+            "songId": "CBAU",
+            "songTitle": "Soul Shakedown Party [Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/02 - Soul Shakedown Party [Version].mp3"
+          },
+          {
+            "songId": "EUPE",
+            "songTitle": "Mrchatterbox [Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/03 - Mrchatterbox [Version].mp3"
+          },
+          {
+            "songId": "RHYF",
+            "songTitle": "Hold On To This Feeling",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/04 - Hold On To This Feeling.mp3"
+          },
+          {
+            "songId": "MFBD",
+            "songTitle": "Hold On To This Feeling [Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/05 - Hold On To This Feeling [Version].mp3"
+          },
+          {
+            "songId": "Y2Q2",
+            "songTitle": "Sugar, Sugar",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/06 - Sugar, Sugar.mp3"
+          },
+          {
+            "songId": "OLVK",
+            "songTitle": "Can't You See [Alternate Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/07 - Can't You See [Alternate Version].mp3"
+          },
+          {
+            "songId": "4SEI",
+            "songTitle": "Mrchatterbox [Alternate Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/08 - Mrchatterbox [Alternate Version].mp3"
+          },
+          {
+            "songId": "W30A",
+            "songTitle": "Soon Come",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/09 - Soon Come.mp3"
+          },
+          {
+            "songId": "WLOW",
+            "songTitle": "Soon Come [Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/10 - Soon Come [Version].mp3"
+          },
+          {
+            "songId": "8QLD",
+            "songTitle": "Stop The Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/11 - Stop The Train.mp3"
+          },
+          {
+            "songId": "IF1R",
+            "songTitle": "Soul Captive",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/12 - Soul Captive.mp3"
+          },
+          {
+            "songId": "1JEJ",
+            "songTitle": "Cheer Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/13 - Cheer Up.mp3"
+          },
+          {
+            "songId": "NF0R",
+            "songTitle": "Give Me A Ticket [Alternate Version]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Best Of The Wailers/14 - Give Me A Ticket [Alternate Version].mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "5G5Z",
+        "folderName": "Bob Marley - 1972 - Satisfy My Soul",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul",
+        "contentsOfFolder": [
+          {
+            "songId": "G6OK",
+            "songTitle": "& Peter Tosh",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/01 - & Peter Tosh - Redder Than Red.mp3"
+          },
+          {
+            "songId": "K3TA",
+            "songTitle": "Guava Jelly (This Train) (Acoustic)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/02 - Guava Jelly (This Train) (Acoustic).mp3"
+          },
+          {
+            "songId": "CJQX",
+            "songTitle": "Craven Choke Puppy",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/03 - Craven Choke Puppy.mp3"
+          },
+          {
+            "songId": "VU43",
+            "songTitle": "Acoustic Medley",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/04 - Acoustic Medley.mp3"
+          },
+          {
+            "songId": "C11G",
+            "songTitle": "Dance Do The Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/05 - Dance Do The Reggae.mp3"
+          },
+          {
+            "songId": "Z28Y",
+            "songTitle": "Dub Feeling",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/06 - Dub Feeling.mp3"
+          },
+          {
+            "songId": "UVF2",
+            "songTitle": "Satisfy My Soul Jah-Jah",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/07 - Satisfy My Soul Jah-Jah.mp3"
+          },
+          {
+            "songId": "SJZL",
+            "songTitle": "Trouble Dub",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/08 - Trouble Dub.mp3"
+          },
+          {
+            "songId": "3J8B",
+            "songTitle": "Cry To Me",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/09 - Cry To Me.mp3"
+          },
+          {
+            "songId": "K6RW",
+            "songTitle": "Cry To Me (Acoustic) (Rare)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/10 - Cry To Me (Acoustic) (Rare).mp3"
+          },
+          {
+            "songId": "RI4L",
+            "songTitle": "Gonna Get You (Very Rare)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/11 - Gonna Get You (Very Rare).mp3"
+          },
+          {
+            "songId": "5RB8",
+            "songTitle": "Guava Jelly",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/12 - Guava Jelly.mp3"
+          },
+          {
+            "songId": "8NFH",
+            "songTitle": "I'm Hurting Inside",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/13 - I'm Hurting Inside.mp3"
+          },
+          {
+            "songId": "ZAPB",
+            "songTitle": "Lick Samba",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/14 - Lick Samba.mp3"
+          },
+          {
+            "songId": "KOQO",
+            "songTitle": "Pour Down Your Sunshine",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/15 - Pour Down Your Sunshine.mp3"
+          },
+          {
+            "songId": "KRTJ",
+            "songTitle": "Reggae On Broadway",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/16 - Reggae On Broadway.mp3"
+          },
+          {
+            "songId": "AM28",
+            "songTitle": "Screw Face",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/17 - Screw Face.mp3"
+          },
+          {
+            "songId": "24LT",
+            "songTitle": "Stay With Me",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/18 - Stay With Me.mp3"
+          },
+          {
+            "songId": "FFPA",
+            "songTitle": "Gonna Get You",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1972 - Satisfy My Soul/19 - Gonna Get You.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "OU6C",
+        "folderName": "Bob Marley - 1973 - Burnin'",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'",
+        "contentsOfFolder": [
+          {
+            "songId": "BL66",
+            "songTitle": "Burnin' And Lootin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/01 - Burnin' And Lootin'.mp3"
+          },
+          {
+            "songId": "YMXE",
+            "songTitle": "Duppy Conqueror",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/02 - Duppy Conqueror.mp3"
+          },
+          {
+            "songId": "WQEY",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/03 - Get Up, Stand Up.mp3"
+          },
+          {
+            "songId": "SEZY",
+            "songTitle": "Hallelujah Time",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/04 - Hallelujah Time.mp3"
+          },
+          {
+            "songId": "GRDL",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/05 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "VSPQ",
+            "songTitle": "One Foundation",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/06 - One Foundation.mp3"
+          },
+          {
+            "songId": "HJUA",
+            "songTitle": "Pass It On",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/07 - Pass It On.mp3"
+          },
+          {
+            "songId": "8PWR",
+            "songTitle": "Put It On",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/08 - Put It On.mp3"
+          },
+          {
+            "songId": "YY6P",
+            "songTitle": "Rastaman Chant",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/09 - Rastaman Chant.mp3"
+          },
+          {
+            "songId": "JOFY",
+            "songTitle": "Small Axe",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Burnin'/10 - Small Axe.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "52CK",
+        "folderName": "Bob Marley - 1973 - Catch A Fire",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire",
+        "contentsOfFolder": [
+          {
+            "songId": "TOCY",
+            "songTitle": "400 Years",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/01 - 400 Years.mp3"
+          },
+          {
+            "songId": "TY5I",
+            "songTitle": "Concrete Jungle",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/02 - Concrete Jungle.mp3"
+          },
+          {
+            "songId": "HVJT",
+            "songTitle": "Kinky Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/03 - Kinky Reggae.mp3"
+          },
+          {
+            "songId": "HQC5",
+            "songTitle": "Midnight Ravers",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/04 - Midnight Ravers.mp3"
+          },
+          {
+            "songId": "E3NJ",
+            "songTitle": "No More Trouble",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/05 - No More Trouble.mp3"
+          },
+          {
+            "songId": "TM4O",
+            "songTitle": "Rock It Baby",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/06 - Rock It Baby.mp3"
+          },
+          {
+            "songId": "6577",
+            "songTitle": "Slave Driver",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/07 - Slave Driver.mp3"
+          },
+          {
+            "songId": "YRSC",
+            "songTitle": "Stir It Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/08 - Stir It Up.mp3"
+          },
+          {
+            "songId": "SUPB",
+            "songTitle": "Stop That Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Catch A Fire/09 - Stop That Train.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "1ENG",
+        "folderName": "Bob Marley - 1973 - Rock To The Rock",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock",
+        "contentsOfFolder": [
+          {
+            "songId": "XT97",
+            "songTitle": "Rock To The Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/01 - Rock To The Rock.mp3"
+          },
+          {
+            "songId": "09IF",
+            "songTitle": "Rocking Steady",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/02 - Rocking Steady.mp3"
+          },
+          {
+            "songId": "HI3W",
+            "songTitle": "How Many Times",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/03 - How Many Times.mp3"
+          },
+          {
+            "songId": "OXE4",
+            "songTitle": "Touch Me",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/04 - Touch Me.mp3"
+          },
+          {
+            "songId": "KTIX",
+            "songTitle": "Mellow Mood",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/05 - Mellow Mood.mp3"
+          },
+          {
+            "songId": "7MBC",
+            "songTitle": "There She Goes",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/06 - There She Goes.mp3"
+          },
+          {
+            "songId": "PY6A",
+            "songTitle": "Soul Rebel",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/07 - Soul Rebel.mp3"
+          },
+          {
+            "songId": "FIBN",
+            "songTitle": "Put It On",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/08 - Put It On.mp3"
+          },
+          {
+            "songId": "J7CW",
+            "songTitle": "Chances Are",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/09 - Chances Are.mp3"
+          },
+          {
+            "songId": "AZVN",
+            "songTitle": "Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/10 - Love.mp3"
+          },
+          {
+            "songId": "261Y",
+            "songTitle": "Bend Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/11 - Bend Down Low.mp3"
+          },
+          {
+            "songId": "OP5V",
+            "songTitle": "The World Is Changing",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/12 - The World Is Changing.mp3"
+          },
+          {
+            "songId": "YIXK",
+            "songTitle": "Nice Time",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/13 - Nice Time.mp3"
+          },
+          {
+            "songId": "89CS",
+            "songTitle": "Treat You Right",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/14 - Treat You Right.mp3"
+          },
+          {
+            "songId": "F2ZR",
+            "songTitle": "What Goes Around Comes Around",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/15 - What Goes Around Comes Around.mp3"
+          },
+          {
+            "songId": "1V6W",
+            "songTitle": "What Goes Around Comes Around (Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1973 - Rock To The Rock/16 - What Goes Around Comes Around (Version).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "3TFU",
+        "folderName": "Bob Marley - 1974 - Natty Dread",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread",
+        "contentsOfFolder": [
+          {
+            "songId": "OWZV",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/01 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "3FY0",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/02 - No Woman No Cry.mp3"
+          },
+          {
+            "songId": "OBCW",
+            "songTitle": "Them Belly Full",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/03 - Them Belly Full.mp3"
+          },
+          {
+            "songId": "GM1Q",
+            "songTitle": "Rebel Music",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/04 - Rebel Music.mp3"
+          },
+          {
+            "songId": "KZQU",
+            "songTitle": "So Jah Seh",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/05 - So Jah Seh.mp3"
+          },
+          {
+            "songId": "HK35",
+            "songTitle": "Natty Dread",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/06 - Natty Dread.mp3"
+          },
+          {
+            "songId": "LLBD",
+            "songTitle": "Bend Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/07 - Bend Down Low.mp3"
+          },
+          {
+            "songId": "WAN8",
+            "songTitle": "Revolution",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/08 - Revolution.mp3"
+          },
+          {
+            "songId": "MAC2",
+            "songTitle": "Talkin' Blues",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1974 - Natty Dread/09 - Talkin' Blues.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "YN70",
+        "folderName": "Bob Marley - 1975 - Live At The Lyceum",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum",
+        "contentsOfFolder": [
+          {
+            "songId": "T9LG",
+            "songTitle": "Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/01 - Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "4V2D",
+            "songTitle": "Burnin' And Lootin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/02 - Burnin' And Lootin'.mp3"
+          },
+          {
+            "songId": "CL13",
+            "songTitle": "Them Belly Full (But We Hungry)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/03 - Them Belly Full (But We Hungry).mp3"
+          },
+          {
+            "songId": "1D4M",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/04 - No Woman No Cry.mp3"
+          },
+          {
+            "songId": "CRI2",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/05 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "PD14",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/06 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "ROF3",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live At The Lyceum/07 - Get Up, Stand Up.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "AVXG",
+        "folderName": "Bob Marley - 1975 - Live!",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!",
+        "contentsOfFolder": [
+          {
+            "songId": "ROGX",
+            "songTitle": "Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/01 - Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "LS4E",
+            "songTitle": "Burnin' And Lootin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/02 - Burnin' And Lootin'.mp3"
+          },
+          {
+            "songId": "30C5",
+            "songTitle": "Them Belly Full",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/03 - Them Belly Full.mp3"
+          },
+          {
+            "songId": "JS01",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/04 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "4CCT",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/05 - No Woman No Cry.mp3"
+          },
+          {
+            "songId": "OYM8",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/06 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "WFX8",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1975 - Live!/07 - Get Up, Stand Up.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "HBSQ",
+        "folderName": "Bob Marley - 1976 - Live Jam 12-02-73",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73",
+        "contentsOfFolder": [
+          {
+            "songId": "2YLF",
+            "songTitle": "Rastaman Vibration",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/01 - Rastaman Vibration.mp3"
+          },
+          {
+            "songId": "TTWZ",
+            "songTitle": "Bend Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/02 - Bend Down Low.mp3"
+          },
+          {
+            "songId": "FOIB",
+            "songTitle": "Catch A Fire",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/03 - Catch A Fire.mp3"
+          },
+          {
+            "songId": "ER21",
+            "songTitle": "Can't Blame The Youths",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/04 - Can't Blame The Youths.mp3"
+          },
+          {
+            "songId": "RACF",
+            "songTitle": "Stop That Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/05 - Stop That Train.mp3"
+          },
+          {
+            "songId": "TTFR",
+            "songTitle": "Burning And Lootin",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/06 - Burning And Lootin.mp3"
+          },
+          {
+            "songId": "NM40",
+            "songTitle": "Kinky Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/07 - Kinky Reggae.mp3"
+          },
+          {
+            "songId": "F2K2",
+            "songTitle": "Get Up Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/08 - Get Up Stand Up.mp3"
+          },
+          {
+            "songId": "YD21",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/09 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "X54K",
+            "songTitle": "Walk The Proud Land",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Live Jam 12-02-73/10 - Walk The Proud Land.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "M7E2",
+        "folderName": "Bob Marley - 1976 - Rastaman Vibration",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration",
+        "contentsOfFolder": [
+          {
+            "songId": "1XG3",
+            "songTitle": "Night Shift",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/01 - Night Shift.mp3"
+          },
+          {
+            "songId": "QNKM",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/02 - War.mp3"
+          },
+          {
+            "songId": "ENYG",
+            "songTitle": "Cry To Me",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/03 - Cry To Me.mp3"
+          },
+          {
+            "songId": "V8JV",
+            "songTitle": "Positive Vibration",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/04 - Positive Vibration.mp3"
+          },
+          {
+            "songId": "9ETT",
+            "songTitle": "Rat Race",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/05 - Rat Race.mp3"
+          },
+          {
+            "songId": "N7KL",
+            "songTitle": "Johnny Was",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/06 - Johnny Was.mp3"
+          },
+          {
+            "songId": "YHVA",
+            "songTitle": "Who The Cap Fit",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/07 - Who The Cap Fit.mp3"
+          },
+          {
+            "songId": "X1UO",
+            "songTitle": "Roots Rock Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/08 - Roots Rock Reggae.mp3"
+          },
+          {
+            "songId": "G2ZX",
+            "songTitle": "Want More",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/09 - Want More.mp3"
+          },
+          {
+            "songId": "JBRS",
+            "songTitle": "Crazy Baldhead",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1976 - Rastaman Vibration/10 - Crazy Baldhead.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "0W9H",
+        "folderName": "Bob Marley - 1977 - Exodus",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus",
+        "contentsOfFolder": [
+          {
+            "songId": "CCYY",
+            "songTitle": "Natural Mystic",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/01 - Natural Mystic.mp3"
+          },
+          {
+            "songId": "USEL",
+            "songTitle": "So Much Things To Say",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/02 - So Much Things To Say.mp3"
+          },
+          {
+            "songId": "Q4BO",
+            "songTitle": "Guiltiness",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/03 - Guiltiness.mp3"
+          },
+          {
+            "songId": "2QO4",
+            "songTitle": "The Heathen",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/04 - The Heathen.mp3"
+          },
+          {
+            "songId": "3F4X",
+            "songTitle": "Exodus",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/05 - Exodus.mp3"
+          },
+          {
+            "songId": "IL9S",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/06 - Jammin'.mp3"
+          },
+          {
+            "songId": "6C4H",
+            "songTitle": "Waiting In Vain",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/07 - Waiting In Vain.mp3"
+          },
+          {
+            "songId": "6ZB3",
+            "songTitle": "Turn Your Lights Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/08 - Turn Your Lights Down Low.mp3"
+          },
+          {
+            "songId": "MAEM",
+            "songTitle": "Three Little Birds",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/09 - Three Little Birds.mp3"
+          },
+          {
+            "songId": "VC25",
+            "songTitle": "One Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Exodus/10 - One Love.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "IZKQ",
+        "folderName": "Bob Marley - 1977 - Live From London",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London",
+        "contentsOfFolder": [
+          {
+            "songId": "32YH",
+            "songTitle": "Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/01 - Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "54YS",
+            "songTitle": "Them Belly Full (But We Hungry)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/02 - Them Belly Full (But We Hungry).mp3"
+          },
+          {
+            "songId": "T2UJ",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/03 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "P9Z7",
+            "songTitle": "Rebel Music",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/04 - Rebel Music.mp3"
+          },
+          {
+            "songId": "LBAM",
+            "songTitle": "Lively Up Yorself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/05 - Lively Up Yorself.mp3"
+          },
+          {
+            "songId": "9GMT",
+            "songTitle": "Running Away",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1977 - Live From London/06 - Running Away.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "K1U4",
+        "folderName": "Bob Marley - 1978 - Babylon By Bus",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus",
+        "contentsOfFolder": [
+          {
+            "songId": "TMEN",
+            "songTitle": "Positive Vibrator",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/01 - Positive Vibrator.mp3"
+          },
+          {
+            "songId": "93PZ",
+            "songTitle": "Exodus",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/02 - Exodus.mp3"
+          },
+          {
+            "songId": "QSFI",
+            "songTitle": "Stir It Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/03 - Stir It Up.mp3"
+          },
+          {
+            "songId": "LU4B",
+            "songTitle": "Rat Race",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/04 - Rat Race.mp3"
+          },
+          {
+            "songId": "7V6O",
+            "songTitle": "Concrete Jungle",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/05 - Concrete Jungle.mp3"
+          },
+          {
+            "songId": "VNBD",
+            "songTitle": "Kinky Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/06 - Kinky Reggae.mp3"
+          },
+          {
+            "songId": "557Z",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/07 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "P9GO",
+            "songTitle": "Rebel Music",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/08 - Rebel Music.mp3"
+          },
+          {
+            "songId": "5LLT",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/09 - War.mp3"
+          },
+          {
+            "songId": "BQEE",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/10 - Is This Love.mp3"
+          },
+          {
+            "songId": "D2MJ",
+            "songTitle": "Heathen",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/11 - Heathen.mp3"
+          },
+          {
+            "songId": "5LDM",
+            "songTitle": "Punky Reggae Party",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/12 - Punky Reggae Party.mp3"
+          },
+          {
+            "songId": "G8NV",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Babylon By Bus/13 - Jammin'.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "9W2Q",
+        "folderName": "Bob Marley - 1978 - Bob Marley & Peter Tosh",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh",
+        "contentsOfFolder": [
+          {
+            "songId": "SHDD",
+            "songTitle": "Judge Not",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/01 - Judge Not.mp3"
+          },
+          {
+            "songId": "ZDH7",
+            "songTitle": "Stir It Up (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/02 - Stir It Up (Original).mp3"
+          },
+          {
+            "songId": "L62Y",
+            "songTitle": "& The Wailers",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/03 - & The Wailers - Nice Time.mp3"
+          },
+          {
+            "songId": "WSZ4",
+            "songTitle": "Back Out",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/04 - Back Out.mp3"
+          },
+          {
+            "songId": "R0ZU",
+            "songTitle": "& Peter Tosh",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/05 - & Peter Tosh - No Sympathy (Version).mp3"
+          },
+          {
+            "songId": "HYU4",
+            "songTitle": "Who The Cap Fit",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/06 - Who The Cap Fit.mp3"
+          },
+          {
+            "songId": "DRYP",
+            "songTitle": "Do It Twice",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/07 - Do It Twice.mp3"
+          },
+          {
+            "songId": "DW7V",
+            "songTitle": "Legalize It",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/08 - Legalize It.mp3"
+          },
+          {
+            "songId": "6YM3",
+            "songTitle": "Caution",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/09 - Caution.mp3"
+          },
+          {
+            "songId": "UID0",
+            "songTitle": "One Cup Of Coffee",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/10 - One Cup Of Coffee.mp3"
+          },
+          {
+            "songId": "O2WP",
+            "songTitle": "Hypocrites",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/11 - Hypocrites - Songs Of Freedom - Cd1.mp3"
+          },
+          {
+            "songId": "PVJF",
+            "songTitle": "Wake Up And Live",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/12 - Wake Up And Live.mp3"
+          },
+          {
+            "songId": "B1OL",
+            "songTitle": "Don't Rock My Boat",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/13 - Don't Rock My Boat.mp3"
+          },
+          {
+            "songId": "07U5",
+            "songTitle": "Mellow Mood (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/14 - Mellow Mood (Original).mp3"
+          },
+          {
+            "songId": "3EGV",
+            "songTitle": "Smile Jamaica",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/15 - Smile Jamaica.mp3"
+          },
+          {
+            "songId": "5Q1R",
+            "songTitle": "Thank You Lord (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/16 - Thank You Lord (Original).mp3"
+          },
+          {
+            "songId": "7MYN",
+            "songTitle": "Bus Dem Shut (Pyaka)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/17 - Bus Dem Shut (Pyaka).mp3"
+          },
+          {
+            "songId": "LZKM",
+            "songTitle": "One Dub",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/18 - One Dub.mp3"
+          },
+          {
+            "songId": "2S2G",
+            "songTitle": "One Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/19 - One Love.mp3"
+          },
+          {
+            "songId": "KS7D",
+            "songTitle": "Bend Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/20 - Bend Down Low.mp3"
+          },
+          {
+            "songId": "S6SG",
+            "songTitle": "Kinky Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/21 - Kinky Reggae.mp3"
+          },
+          {
+            "songId": "IPOA",
+            "songTitle": "Cheer Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/22 - Cheer Up.mp3"
+          },
+          {
+            "songId": "G3ZS",
+            "songTitle": "& Peter Tosh Arise Blackman",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/23 - & Peter Tosh Arise Blackman.mp3"
+          },
+          {
+            "songId": "6F8M",
+            "songTitle": "& Peter Tosh Soul Rebel",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/24 - & Peter Tosh Soul Rebel.mp3"
+          },
+          {
+            "songId": "HSBJ",
+            "songTitle": "& Peter Tosh This Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/25 - & Peter Tosh This Train.mp3"
+          },
+          {
+            "songId": "7TT5",
+            "songTitle": "& Peter Tosh Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/26 - & Peter Tosh Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "VZBH",
+            "songTitle": "& Peter Tosh & Jimmy Cliff Pressure",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/27 - & Peter Tosh & Jimmy Cliff Pressure.mp3"
+          },
+          {
+            "songId": "N4LP",
+            "songTitle": "& Peter Tosh (Live 4",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/28 - & Peter Tosh (Live 4.10.75) One Love.mp3"
+          },
+          {
+            "songId": "GXNM",
+            "songTitle": "& Peter Tosh Corner Stone",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/29 - & Peter Tosh Corner Stone.mp3"
+          },
+          {
+            "songId": "19A0",
+            "songTitle": "& Peter Tosh (Live) Stop That Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/30 - & Peter Tosh (Live) Stop That Train.mp3"
+          },
+          {
+            "songId": "ACHB",
+            "songTitle": "& Peter Tosh Downpressor Man",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/31 - & Peter Tosh Downpressor Man.mp3"
+          },
+          {
+            "songId": "J944",
+            "songTitle": "& Peter Tosh Jah Is Mighty",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/32 - & Peter Tosh Jah Is Mighty.mp3"
+          },
+          {
+            "songId": "HBP2",
+            "songTitle": "& Peter Tosh Mr",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/33 - & Peter Tosh Mr. Brown.mp3"
+          },
+          {
+            "songId": "0D99",
+            "songTitle": "& Peter Tosh Soul Shakedown Party",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/34 - & Peter Tosh Soul Shakedown Party.mp3"
+          },
+          {
+            "songId": "5LD7",
+            "songTitle": "& Peter Tosh & The Wailers Stop That Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/35 - & Peter Tosh & The Wailers Stop That Train.mp3"
+          },
+          {
+            "songId": "RG8E",
+            "songTitle": "Why Should I (Previously Unreleased)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/36 - Why Should I (Previously Unreleased).mp3"
+          },
+          {
+            "songId": "1E4Z",
+            "songTitle": "& The Wailers Catch A Fire (Original Jamaican Version) Kinky Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/37 - & The Wailers Catch A Fire (Original Jamaican Version) Kinky Reggae.mp3"
+          },
+          {
+            "songId": "4LE5",
+            "songTitle": "Lee Scratch Perry Vs Try Me",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/38 - Lee Scratch Perry Vs Try Me.mp3"
+          },
+          {
+            "songId": "BZ5J",
+            "songTitle": "Soul Rebel (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/39 - Soul Rebel (Original).mp3"
+          },
+          {
+            "songId": "2EKC",
+            "songTitle": "No Water",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/40 - No Water.mp3"
+          },
+          {
+            "songId": "WOE7",
+            "songTitle": "Keep On Moving (London Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/41 - Keep On Moving (London Version).mp3"
+          },
+          {
+            "songId": "ZOQ5",
+            "songTitle": "I'm Still Waiting",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/42 - I'm Still Waiting.mp3"
+          },
+          {
+            "songId": "PNIH",
+            "songTitle": "Simmer Down",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/43 - Simmer Down.mp3"
+          },
+          {
+            "songId": "N327",
+            "songTitle": "Legalize It (Live 4-10-75)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/44 - Legalize It (Live 4-10-75).mp3"
+          },
+          {
+            "songId": "EEEH",
+            "songTitle": "Kaya",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/45 - Kaya.mp3"
+          },
+          {
+            "songId": "R12X",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/46 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "CSL8",
+            "songTitle": "Pick Myself Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/47 - Pick Myself Up.mp3"
+          },
+          {
+            "songId": "6UQK",
+            "songTitle": "Reggae Fever",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/48 - Reggae Fever.mp3"
+          },
+          {
+            "songId": "VKRH",
+            "songTitle": "&The Wailers (Original) All Day All Night",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/49 - &The Wailers (Original) All Day All Night.mp3"
+          },
+          {
+            "songId": "SSE5",
+            "songTitle": "& The Upsetters African Herbsman (Original Vocal)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/50 - & The Upsetters African Herbsman (Original Vocal).mp3"
+          },
+          {
+            "songId": "8F4K",
+            "songTitle": "& The Wailers (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/51 - & The Wailers (Original) - High Tide Or Low Tide.mp3"
+          },
+          {
+            "songId": "P8T2",
+            "songTitle": "Jah Live (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Bob Marley & Peter Tosh/52 - Jah Live (Original).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "9UBK",
+        "folderName": "Bob Marley - 1978 - Kaya",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya",
+        "contentsOfFolder": [
+          {
+            "songId": "OSLZ",
+            "songTitle": "Easy Skanking",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/01 - Easy Skanking.mp3"
+          },
+          {
+            "songId": "Z6LM",
+            "songTitle": "Kaya",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/02 - Kaya.mp3"
+          },
+          {
+            "songId": "ZUG8",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/03 - Is This Love.mp3"
+          },
+          {
+            "songId": "GHLS",
+            "songTitle": "Sun Is Shining",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/04 - Sun Is Shining.mp3"
+          },
+          {
+            "songId": "64EL",
+            "songTitle": "Satisfy My Soul",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/05 - Satisfy My Soul.mp3"
+          },
+          {
+            "songId": "0DVX",
+            "songTitle": "She's Gone",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/06 - She's Gone.mp3"
+          },
+          {
+            "songId": "UNCN",
+            "songTitle": "Misty Morning",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/07 - Misty Morning.mp3"
+          },
+          {
+            "songId": "ZMRF",
+            "songTitle": "Crisis",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/08 - Crisis.mp3"
+          },
+          {
+            "songId": "UZJ0",
+            "songTitle": "Running Away",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/09 - Running Away.mp3"
+          },
+          {
+            "songId": "3YA0",
+            "songTitle": "Time Will Tell",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - Kaya/10 - Time Will Tell.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "GZED",
+        "folderName": "Bob Marley - 1978 - One Love Peace Concert",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert",
+        "contentsOfFolder": [
+          {
+            "songId": "WIU3",
+            "songTitle": "Lion Of Judah",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/01 - Lion Of Judah.mp3"
+          },
+          {
+            "songId": "8R3I",
+            "songTitle": "Natural Mystic",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/02 - Natural Mystic.mp3"
+          },
+          {
+            "songId": "AELY",
+            "songTitle": "Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/03 - Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "IO92",
+            "songTitle": "Natty Dread",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/04 - Natty Dread.mp3"
+          },
+          {
+            "songId": "H797",
+            "songTitle": "Positive Vibration",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/05 - Positive Vibration.mp3"
+          },
+          {
+            "songId": "0LH1",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/06 - War.mp3"
+          },
+          {
+            "songId": "46V9",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/07 - Jammin'.mp3"
+          },
+          {
+            "songId": "KPZK",
+            "songTitle": "Jah Live",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1978 - One Love Peace Concert/08 - Jah Live.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "MGO6",
+        "folderName": "Bob Marley - 1979 - Live From Kingston",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Live From Kingston",
+        "contentsOfFolder": [
+          {
+            "songId": "FUW5",
+            "songTitle": "Natty Dread",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Live From Kingston/01 - Natty Dread.mp3"
+          },
+          {
+            "songId": "B8HP",
+            "songTitle": "Positive Vibration",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Live From Kingston/02 - Positive Vibration.mp3"
+          },
+          {
+            "songId": "HPQ0",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Live From Kingston/03 - War.mp3"
+          },
+          {
+            "songId": "H3IO",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Live From Kingston/04 - Jammin'.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "4ILQ",
+        "folderName": "Bob Marley - 1979 - Survival",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival",
+        "contentsOfFolder": [
+          {
+            "songId": "ZS06",
+            "songTitle": "So Much Trouble In The World",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/01 - So Much Trouble In The World.mp3"
+          },
+          {
+            "songId": "LTRJ",
+            "songTitle": "Top Rankin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/02 - Top Rankin'.mp3"
+          },
+          {
+            "songId": "SRGR",
+            "songTitle": "Babylon System",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/03 - Babylon System.mp3"
+          },
+          {
+            "songId": "SLBS",
+            "songTitle": "Survival",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/04 - Survival.mp3"
+          },
+          {
+            "songId": "GT7Y",
+            "songTitle": "Africa Unite",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/05 - Africa Unite.mp3"
+          },
+          {
+            "songId": "CEGG",
+            "songTitle": "One Drop",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/06 - One Drop.mp3"
+          },
+          {
+            "songId": "2XV8",
+            "songTitle": "Ride Natty Ride",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/07 - Ride Natty Ride.mp3"
+          },
+          {
+            "songId": "XRYT",
+            "songTitle": "Ambush In The Night",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/08 - Ambush In The Night.mp3"
+          },
+          {
+            "songId": "9GV7",
+            "songTitle": "Wake Up And Live",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/09 - Wake Up And Live.mp3"
+          },
+          {
+            "songId": "0PGN",
+            "songTitle": "Zimbabwe",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1979 - Survival/10 - Zimbabwe.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "0MJ3",
+        "folderName": "Bob Marley - 1980 - Live At Rockpalast",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast",
+        "contentsOfFolder": [
+          {
+            "songId": "SZAK",
+            "songTitle": "Oppening",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/01 - Oppening.mp3"
+          },
+          {
+            "songId": "A5RP",
+            "songTitle": "Natural Mystic",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/02 - Natural Mystic.mp3"
+          },
+          {
+            "songId": "2S7C",
+            "songTitle": "Rastaman Vibration",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/03 - Rastaman Vibration.mp3"
+          },
+          {
+            "songId": "5SI9",
+            "songTitle": "Revelation",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/04 - Revelation.mp3"
+          },
+          {
+            "songId": "449U",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/05 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "3P5N",
+            "songTitle": "War No More Trouble",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/06 - War No More Trouble.mp3"
+          },
+          {
+            "songId": "OV7R",
+            "songTitle": "Zimbabwe",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/07 - Zimbabwe.mp3"
+          },
+          {
+            "songId": "ZU18",
+            "songTitle": "Jamming",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/08 - Jamming.mp3"
+          },
+          {
+            "songId": "EH4N",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/09 - No Woman No Cry.mp3"
+          },
+          {
+            "songId": "13SH",
+            "songTitle": "Zion Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/10 - Zion Train.mp3"
+          },
+          {
+            "songId": "V32M",
+            "songTitle": "Exodus",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/11 - Exodus.mp3"
+          },
+          {
+            "songId": "B3AV",
+            "songTitle": "Redemption Song",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/12 - Redemption Song.mp3"
+          },
+          {
+            "songId": "TAB9",
+            "songTitle": "Could You Be Loved",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/13 - Could You Be Loved.mp3"
+          },
+          {
+            "songId": "LYEG",
+            "songTitle": "We Can Make It Work",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/14 - We Can Make It Work.mp3"
+          },
+          {
+            "songId": "YVFG",
+            "songTitle": "Natty Dread",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/15 - Natty Dread.mp3"
+          },
+          {
+            "songId": "TKD3",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/16 - Is This Love.mp3"
+          },
+          {
+            "songId": "2LO8",
+            "songTitle": "Get Up Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Live At Rockpalast/17 - Get Up Stand Up.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "KT4H",
+        "folderName": "Bob Marley - 1980 - Uprising",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising",
+        "contentsOfFolder": [
+          {
+            "songId": "94FM",
+            "songTitle": "Coming In From The Cold",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/01 - Coming In From The Cold.mp3"
+          },
+          {
+            "songId": "CFLL",
+            "songTitle": "Real Situation",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/02 - Real Situation.mp3"
+          },
+          {
+            "songId": "VITH",
+            "songTitle": "Bad Card",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/03 - Bad Card.mp3"
+          },
+          {
+            "songId": "RVYX",
+            "songTitle": "We And Dem",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/04 - We And Dem.mp3"
+          },
+          {
+            "songId": "GFHL",
+            "songTitle": "Work",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/05 - Work.mp3"
+          },
+          {
+            "songId": "PXLO",
+            "songTitle": "Zion Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/06 - Zion Train.mp3"
+          },
+          {
+            "songId": "DU30",
+            "songTitle": "Pimper's Paradise",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/07 - Pimper's Paradise.mp3"
+          },
+          {
+            "songId": "N023",
+            "songTitle": "Could You Be Loved",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/08 - Could You Be Loved.mp3"
+          },
+          {
+            "songId": "7DG4",
+            "songTitle": "Forever Loving Jah",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/09 - Forever Loving Jah.mp3"
+          },
+          {
+            "songId": "R71G",
+            "songTitle": "Redemption Song",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1980 - Uprising/10 - Redemption Song.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "VB59",
+        "folderName": "Bob Marley - 1983 - Confrontation",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation",
+        "contentsOfFolder": [
+          {
+            "songId": "QA20",
+            "songTitle": "Trench Town",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/01 - Trench Town.mp3"
+          },
+          {
+            "songId": "M4W0",
+            "songTitle": "Blackman Redemption",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/02 - Blackman Redemption.mp3"
+          },
+          {
+            "songId": "LAYZ",
+            "songTitle": "Buffalo Soldier",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/03 - Buffalo Soldier.mp3"
+          },
+          {
+            "songId": "IEHF",
+            "songTitle": "Chant Down Babylon",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/04 - Chant Down Babylon.mp3"
+          },
+          {
+            "songId": "AUWO",
+            "songTitle": "Jump Nyabinghi",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/05 - Jump Nyabinghi.mp3"
+          },
+          {
+            "songId": "59RN",
+            "songTitle": "Rastaman Live Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/06 - Rastaman Live Up.mp3"
+          },
+          {
+            "songId": "XA3O",
+            "songTitle": "Stiff Necked Fools",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/07 - Stiff Necked Fools.mp3"
+          },
+          {
+            "songId": "B38Q",
+            "songTitle": "Mix Upmix Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/08 - Mix Upmix Up.mp3"
+          },
+          {
+            "songId": "7I0U",
+            "songTitle": "& The Wailers Give Thanks And Praises",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/09 - & The Wailers Give Thanks And Praises.mp3"
+          },
+          {
+            "songId": "G92V",
+            "songTitle": "I Know_New",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1983 - Confrontation/10 - I Know_New.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "W6FU",
+        "folderName": "Bob Marley - 1985 - The Final Concert 09-23-80",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1985 - The Final Concert 09-23-80",
+        "contentsOfFolder": [
+          {
+            "songId": "GL1S",
+            "songTitle": "Redemption Song",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1985 - The Final Concert 09-23-80/01 - Redemption Song.mp3"
+          },
+          {
+            "songId": "83P6",
+            "songTitle": "Coming In From The Cold",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1985 - The Final Concert 09-23-80/02 - Coming In From The Cold.mp3"
+          },
+          {
+            "songId": "69CG",
+            "songTitle": "Could You Be Loved",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1985 - The Final Concert 09-23-80/03 - Could You Be Loved.mp3"
+          },
+          {
+            "songId": "2O2C",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1985 - The Final Concert 09-23-80/04 - Is This Love.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "NUTJ",
+        "folderName": "Bob Marley - 1994 - Legend",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend",
+        "contentsOfFolder": [
+          {
+            "songId": "3P6J",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/01 - Is This Love.mp3"
+          },
+          {
+            "songId": "07GB",
+            "songTitle": "Three Little Birds",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/02 - Three Little Birds.mp3"
+          },
+          {
+            "songId": "OOVV",
+            "songTitle": "Buffalo Soldier",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/03 - Buffalo Soldier.mp3"
+          },
+          {
+            "songId": "EWCT",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/04 - Get Up, Stand Up.mp3"
+          },
+          {
+            "songId": "FQ1B",
+            "songTitle": "Stir It Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/05 - Stir It Up.mp3"
+          },
+          {
+            "songId": "Q40X",
+            "songTitle": "One Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/06 - One Love.mp3"
+          },
+          {
+            "songId": "U1YW",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/07 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "FTMR",
+            "songTitle": "Waiting In Vain",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/08 - Waiting In Vain.mp3"
+          },
+          {
+            "songId": "DF0H",
+            "songTitle": "Redemption Song",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/09 - Redemption Song.mp3"
+          },
+          {
+            "songId": "RM0M",
+            "songTitle": "Satisfy My Soul",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/10 - Satisfy My Soul.mp3"
+          },
+          {
+            "songId": "YPC1",
+            "songTitle": "Exodus",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/11 - Exodus.mp3"
+          },
+          {
+            "songId": "45AR",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/12 - Jammin'.mp3"
+          },
+          {
+            "songId": "3QRU",
+            "songTitle": "Could You Be Loved",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/13 - Could You Be Loved.mp3"
+          },
+          {
+            "songId": "Y6O2",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Legend/14 - No Woman No Cry.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "WZ9U",
+        "folderName": "Bob Marley - 1994 - Talking Blues",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues",
+        "contentsOfFolder": [
+          {
+            "songId": "SE36",
+            "songTitle": "Rastaman Chant",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/01 - Rastaman Chant.mp3"
+          },
+          {
+            "songId": "Q1KF",
+            "songTitle": "Bend Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/02 - Bend Down Low.mp3"
+          },
+          {
+            "songId": "8ZRG",
+            "songTitle": "You Can't Blame The Youth",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/03 - You Can't Blame The Youth.mp3"
+          },
+          {
+            "songId": "J6UT",
+            "songTitle": "Soul Rebe Keep On Moving",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/04 - Soul Rebe Keep On Moving.mp3"
+          },
+          {
+            "songId": "6IVW",
+            "songTitle": "& The Wailers African Herbsman  Fussing And Fighting",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/05 - & The Wailers African Herbsman  Fussing And Fighting.mp3"
+          },
+          {
+            "songId": "G4TS",
+            "songTitle": "Stop That Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/06 - Stop That Train.mp3"
+          },
+          {
+            "songId": "DUCR",
+            "songTitle": "Burnin' And The Lootin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/07 - Burnin' And The Lootin'.mp3"
+          },
+          {
+            "songId": "3VXU",
+            "songTitle": "Slave Driver",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1994 - Talking Blues/08 - Slave Driver.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "JR63",
+        "folderName": "Bob Marley - 1995 - Natural Mystic",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic",
+        "contentsOfFolder": [
+          {
+            "songId": "G9HV",
+            "songTitle": "Keep On Moving",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/01 - Keep On Moving.mp3"
+          },
+          {
+            "songId": "YNY8",
+            "songTitle": "Rock Roots Reegea",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/02 - Rock Roots Reegea.mp3"
+          },
+          {
+            "songId": "KV24",
+            "songTitle": "Africa Unite",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/03 - Africa Unite.mp3"
+          },
+          {
+            "songId": "LS3X",
+            "songTitle": "Natural Mystic [Tuff Gong]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/04 - Natural Mystic [Tuff Gong].mp3"
+          },
+          {
+            "songId": "O7YP",
+            "songTitle": "Iron Lion Zion",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/05 - Iron Lion Zion.mp3"
+          },
+          {
+            "songId": "1IAW",
+            "songTitle": "Natural Mystic",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/06 - Natural Mystic.mp3"
+          },
+          {
+            "songId": "K7I9",
+            "songTitle": "One Drop",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/07 - One Drop.mp3"
+          },
+          {
+            "songId": "HOAO",
+            "songTitle": "Pimpers Paradise",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/08 - Pimpers Paradise.mp3"
+          },
+          {
+            "songId": "6SPF",
+            "songTitle": "Natural Mystic [Tuff Gong]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/09 - Natural Mystic [Tuff Gong].mp3"
+          },
+          {
+            "songId": "KEPN",
+            "songTitle": "So Much Trouble In The World",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/10 - So Much Trouble In The World.mp3"
+          },
+          {
+            "songId": "88RQ",
+            "songTitle": "& The Wailers",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/11 - & The Wailers - Crazy Baldheads.mp3"
+          },
+          {
+            "songId": "L0SB",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/12 - War.mp3"
+          },
+          {
+            "songId": "4HWT",
+            "songTitle": "Trenchtown Rock",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/13 - Trenchtown Rock.mp3"
+          },
+          {
+            "songId": "3R9I",
+            "songTitle": "Natural Mystic [Tuff Gong]",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1995 - Natural Mystic/14 - Natural Mystic [Tuff Gong].mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "KOCN",
+        "folderName": "Bob Marley - 1999 - A Rebel's Dream",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream",
+        "contentsOfFolder": [
+          {
+            "songId": "M8OO",
+            "songTitle": "Erykah Badu",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/01 - Erykah Badu - No More Trouble.mp3"
+          },
+          {
+            "songId": "ZY0L",
+            "songTitle": "Krayzle Bone",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/02 - Krayzle Bone - Rebel Music.mp3"
+          },
+          {
+            "songId": "2VSG",
+            "songTitle": "Rakim",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/03 - Rakim - Concrete Jungle.mp3"
+          },
+          {
+            "songId": "W17K",
+            "songTitle": "Mr",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/04 - Mr. Cheeks - Guiltiness.mp3"
+          },
+          {
+            "songId": "M3C7",
+            "songTitle": "Lauryn Mill",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/05 - Lauryn Mill - Turn Your Lights Down Low.mp3"
+          },
+          {
+            "songId": "7P3B",
+            "songTitle": "Mc Lyte",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/06 - Mc Lyte - Jammin.mp3"
+          },
+          {
+            "songId": "S53G",
+            "songTitle": "Marley Bros",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/07 - Marley Bros - Kinky Reggae.mp3"
+          },
+          {
+            "songId": "FQ71",
+            "songTitle": "Steven Tyler",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/08 - Steven Tyler - Roots Rock Reggae.mp3"
+          },
+          {
+            "songId": "5VTA",
+            "songTitle": "Chuck D",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/09 - Chuck D - Black Surviversakasurvival.mp3"
+          },
+          {
+            "songId": "AX3I",
+            "songTitle": "Roots",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/10 - Roots - Burning And Lootin.mp3"
+          },
+          {
+            "songId": "3ZHT",
+            "songTitle": "Busta Rhymes",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/11 - Busta Rhymes - Rastaman Chant.mp3"
+          },
+          {
+            "songId": "YCE4",
+            "songTitle": "Guru",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/12 - Guru - Johnny Was.mp3"
+          },
+          {
+            "songId": "53DC",
+            "songTitle": "Fat Boy Slim",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - A Rebel's Dream/13 - Fat Boy Slim - I'm A Rainbow Too (Techno Mix).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "G35V",
+        "folderName": "Bob Marley - 1999 - Chant Down Babylon",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon",
+        "contentsOfFolder": [
+          {
+            "songId": "FW7P",
+            "songTitle": "No More Trouble (& Erykah Badu)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/01 - No More Trouble (& Erykah Badu).mp3"
+          },
+          {
+            "songId": "1SCV",
+            "songTitle": "Rebel Music (& Krayzine Bone)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/02 - Rebel Music (& Krayzine Bone).mp3"
+          },
+          {
+            "songId": "PIRX",
+            "songTitle": "Johnny Was (& Guru)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/03 - Johnny Was (& Guru).mp3"
+          },
+          {
+            "songId": "WUO2",
+            "songTitle": "Concrete Jungle (& Rakim)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/04 - Concrete Jungle (& Rakim).mp3"
+          },
+          {
+            "songId": "6ETK",
+            "songTitle": "Rastaman Chant (& Busta Rhymes & Flipmode Squad)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/05 - Rastaman Chant (& Busta Rhymes & Flipmode Squad).mp3"
+          },
+          {
+            "songId": "AGSV",
+            "songTitle": "Guiltiness (& Lost Boyz & Mr",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/06 - Guiltiness (& Lost Boyz & Mr. Cheeks).mp3"
+          },
+          {
+            "songId": "VRZ6",
+            "songTitle": "Turn Your Lights Down Low (& Lauryn Hill)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/07 - Turn Your Lights Down Low (& Lauryn Hill).mp3"
+          },
+          {
+            "songId": "EU0O",
+            "songTitle": "Jammin' (& Mc Lyte)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/08 - Jammin' (& Mc Lyte).mp3"
+          },
+          {
+            "songId": "WJWX",
+            "songTitle": "Kinky Reggae (& The Marley Brothers & The Ghetto Youths Crew)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/09 - Kinky Reggae (& The Marley Brothers & The Ghetto Youths Crew).mp3"
+          },
+          {
+            "songId": "EP6J",
+            "songTitle": "Roots, Rock, Reggae (& Steven Tyler & Joe Perry)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/10 - Roots, Rock, Reggae (& Steven Tyler & Joe Perry).mp3"
+          },
+          {
+            "songId": "OTU8",
+            "songTitle": "Survival A",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/11 - Survival A.K.A. Black Survivors (& Chuck D).mp3"
+          },
+          {
+            "songId": "F29K",
+            "songTitle": "Burnin' And Lootin' (& The Roots & Black Thought)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Chant Down Babylon/12 - Burnin' And Lootin' (& The Roots & Black Thought).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "JJUE",
+        "folderName": "Bob Marley - 1999 - Selassie Is The Chapel",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel",
+        "contentsOfFolder": [
+          {
+            "songId": "SJCB",
+            "songTitle": " Don't Rock My Boat",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/01 -  Don't Rock My Boat.mp3"
+          },
+          {
+            "songId": "TFAN",
+            "songTitle": " The Lord Will Make A Way Somehow",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/02 -  The Lord Will Make A Way Somehow.mp3"
+          },
+          {
+            "songId": "4751",
+            "songTitle": "Chances Are",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/03 - Chances Are.mp3"
+          },
+          {
+            "songId": "LQIF",
+            "songTitle": " Selassie Is The Chapel",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/04 -  Selassie Is The Chapel.mp3"
+          },
+          {
+            "songId": "0YN9",
+            "songTitle": " Tread Oh",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/05 -  Tread Oh.mp3"
+          },
+          {
+            "songId": "UY27",
+            "songTitle": " Feel Alright",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/06 -  Feel Alright.mp3"
+          },
+          {
+            "songId": "1M3B",
+            "songTitle": " Rhythm",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/07 -  Rhythm.mp3"
+          },
+          {
+            "songId": "HRMR",
+            "songTitle": " Rocking Steady",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/08 -  Rocking Steady.mp3"
+          },
+          {
+            "songId": "XZE6",
+            "songTitle": " Adam And Eve",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/09 -  Adam And Eve.mp3"
+          },
+          {
+            "songId": "JM4R",
+            "songTitle": "Wisdom",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/10 - Wisdom.mp3"
+          },
+          {
+            "songId": "PZMK",
+            "songTitle": "Thank You Lord",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/11 - Thank You Lord.mp3"
+          },
+          {
+            "songId": "L0TD",
+            "songTitle": "This Train",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/12 - This Train.mp3"
+          },
+          {
+            "songId": "Q48O",
+            "songTitle": "Give Me A Ticket",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/13 - Give Me A Ticket.mp3"
+          },
+          {
+            "songId": "QH81",
+            "songTitle": "Trouble On The Road Again",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/14 - Trouble On The Road Again.mp3"
+          },
+          {
+            "songId": "298R",
+            "songTitle": "Black Progress",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/15 - Black Progress.mp3"
+          },
+          {
+            "songId": "YO27",
+            "songTitle": "Black Progress(Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/16 - Black Progress(Version).mp3"
+          },
+          {
+            "songId": "R2NE",
+            "songTitle": "Tread Oh (Version)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 1999 - Selassie Is The Chapel/17 - Tread Oh (Version).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "7Q6D",
+        "folderName": "Bob Marley - 2001 - Rebel Music",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music",
+        "contentsOfFolder": [
+          {
+            "songId": "JKMM",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/01 - Get Up, Stand Up.mp3"
+          },
+          {
+            "songId": "HF1Q",
+            "songTitle": "War",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/02 - War.mp3"
+          },
+          {
+            "songId": "NB5V",
+            "songTitle": "Slave Driver",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/03 - Slave Driver.mp3"
+          },
+          {
+            "songId": "4YPP",
+            "songTitle": "Rat Race",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/04 - Rat Race.mp3"
+          },
+          {
+            "songId": "NIDF",
+            "songTitle": "Roots",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/05 - Roots.mp3"
+          },
+          {
+            "songId": "FCVW",
+            "songTitle": "&The Wailers So Much Trouble In The World",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/06 - &The Wailers So Much Trouble In The World.mp3"
+          },
+          {
+            "songId": "SP8C",
+            "songTitle": "Them Belly Full",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/07 - Them Belly Full.mp3"
+          },
+          {
+            "songId": "1ASS",
+            "songTitle": "Ride Natty Ride",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/08 - Ride Natty Ride.mp3"
+          },
+          {
+            "songId": "EXX0",
+            "songTitle": "All In One",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/09 - All In One.mp3"
+          },
+          {
+            "songId": "GRYV",
+            "songTitle": "Don't Rock My Boat",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/10 - Don't Rock My Boat.mp3"
+          },
+          {
+            "songId": "XVFJ",
+            "songTitle": "Crazy Baldhead",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/11 - Crazy Baldhead.mp3"
+          },
+          {
+            "songId": "K9HP",
+            "songTitle": "& The Wailers Rebel Music (3 Oclock Roadblock)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Rebel Music/12 - & The Wailers Rebel Music (3 Oclock Roadblock).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "59I1",
+        "folderName": "Bob Marley - 2001 - Shakedown Marley Remixed",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed",
+        "contentsOfFolder": [
+          {
+            "songId": "YKAK",
+            "songTitle": "Soul Shakedown Party (Steve Hurley Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/01 - Soul Shakedown Party (Steve Hurley Remix).mp3"
+          },
+          {
+            "songId": "3BCL",
+            "songTitle": "Satisfy My Soul (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/02 - Satisfy My Soul (Groove Deluxe Remix).mp3"
+          },
+          {
+            "songId": "CVXI",
+            "songTitle": "Sun Is Shining (Bnm Corp Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/03 - Sun Is Shining (Bnm Corp Remix).mp3"
+          },
+          {
+            "songId": "K6WS",
+            "songTitle": "African Herbsman (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/04 - African Herbsman (Groove Deluxe Remix).mp3"
+          },
+          {
+            "songId": "EEQE",
+            "songTitle": "What Goes Around Comes Around (Alex Natale Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/05 - What Goes Around Comes Around (Alex Natale Remix).mp3"
+          },
+          {
+            "songId": "HHHL",
+            "songTitle": "Sugar Sugar (Gum Vs",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/06 - Sugar Sugar (Gum Vs. Flightcrank Remix).mp3"
+          },
+          {
+            "songId": "0R4O",
+            "songTitle": "Sugar Sugar (Marcal Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/07 - Sugar Sugar (Marcal Remix).mp3"
+          },
+          {
+            "songId": "DFMD",
+            "songTitle": "Keep On Movin' (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/08 - Keep On Movin' (Groove Deluxe Remix).mp3"
+          },
+          {
+            "songId": "ZP6M",
+            "songTitle": "Rock Steady (Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/09 - Rock Steady (Remix).mp3"
+          },
+          {
+            "songId": "8D55",
+            "songTitle": "Bend Down Low (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/10 - Bend Down Low (Groove Deluxe Remix).mp3"
+          },
+          {
+            "songId": "9MF0",
+            "songTitle": "Falling In And Out Of Love (Alex Natale Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/11 - Falling In And Out Of Love (Alex Natale Remix).mp3"
+          },
+          {
+            "songId": "HQ6N",
+            "songTitle": "Small Axe (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/12 - Small Axe (Groove Deluxe Remix).mp3"
+          },
+          {
+            "songId": "FCAS",
+            "songTitle": "Kaya (Groove Deluxe Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2001 - Shakedown Marley Remixed/13 - Kaya (Groove Deluxe Remix).mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "EZE3",
+        "folderName": "Bob Marley - 2002 - One Love, The Very Best Of",
+        "pathToFolder": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of",
+        "contentsOfFolder": [
+          {
+            "songId": "NVNG",
+            "songTitle": "Stir It Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/01 - Stir It Up.mp3"
+          },
+          {
+            "songId": "KRE3",
+            "songTitle": "I Shot The Sheriff",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/02 - I Shot The Sheriff.mp3"
+          },
+          {
+            "songId": "W3HZ",
+            "songTitle": "Get Up, Stand Up",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/03 - Get Up, Stand Up.mp3"
+          },
+          {
+            "songId": "MDKN",
+            "songTitle": "No Woman No Cry",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/04 - No Woman No Cry.mp3"
+          },
+          {
+            "songId": "2G18",
+            "songTitle": "Exodus",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/05 - Exodus.mp3"
+          },
+          {
+            "songId": "7RVU",
+            "songTitle": "Turn Your Lights Down Low",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/06 - Turn Your Lights Down Low.mp3"
+          },
+          {
+            "songId": "3RU3",
+            "songTitle": "I Know A Place (Single Remix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/07 - I Know A Place (Single Remix).mp3"
+          },
+          {
+            "songId": "16U6",
+            "songTitle": "So Much Trouble In The World",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/08 - So Much Trouble In The World.mp3"
+          },
+          {
+            "songId": "RR3U",
+            "songTitle": "Roots Rock Reggae",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/09 - Roots Rock Reggae.mp3"
+          },
+          {
+            "songId": "GAIM",
+            "songTitle": "Lively Up Yourself",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/10 - Lively Up Yourself.mp3"
+          },
+          {
+            "songId": "JXHN",
+            "songTitle": "One Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/11 - One Love.mp3"
+          },
+          {
+            "songId": "48V8",
+            "songTitle": "Three Little Birds",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/12 - Three Little Birds.mp3"
+          },
+          {
+            "songId": "3RXA",
+            "songTitle": "Jammin'",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/13 - Jammin'.mp3"
+          },
+          {
+            "songId": "7IEV",
+            "songTitle": "Waiting In Vain",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/14 - Waiting In Vain.mp3"
+          },
+          {
+            "songId": "5JKV",
+            "songTitle": "Buffalo Soldier",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/15 - Buffalo Soldier.mp3"
+          },
+          {
+            "songId": "PL9J",
+            "songTitle": "Could You Be Loved",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/16 - Could You Be Loved.mp3"
+          },
+          {
+            "songId": "RKBK",
+            "songTitle": "Sun Is Shinning (Original)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/17 - Sun Is Shinning (Original).mp3"
+          },
+          {
+            "songId": "UNCX",
+            "songTitle": "Is This Love",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/18 - Is This Love.mp3"
+          },
+          {
+            "songId": "EBLG",
+            "songTitle": "& The Wailers",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/19 - & The Wailers - I Know A Place.mp3"
+          },
+          {
+            "songId": "JUBD",
+            "songTitle": "Iron Lion Zion",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/20 - Iron Lion Zion.mp3"
+          },
+          {
+            "songId": "ZNRT",
+            "songTitle": "Iron Lion Zion (12 Inch Mix)",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/21 - Iron Lion Zion (12 Inch Mix).mp3"
+          },
+          {
+            "songId": "5Q6U",
+            "songTitle": "Redemption Song (Band Version) Very Rare",
+            "artist": "Bob Marley",
+            "pathToSong": "/home/dave/Music/Bob Marley/Bob Marley - 2002 - One Love, The Very Best Of/22 - Redemption Song (Band Version) Very Rare.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "folderId": "3BCI",
+    "folderName": "Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]",
+    "pathToFolder": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]",
+    "contentsOfFolder": [
+      {
+        "songId": "STN1",
+        "songTitle": "Born On The Bayou (Single Edit)",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/01 Born On The Bayou (Single Edit).flac"
+      },
+      {
+        "songId": "V2T6",
+        "songTitle": "Fortunate Son",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/02 Fortunate Son.flac"
+      },
+      {
+        "songId": "JQE3",
+        "songTitle": "Proud Mary",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/03 Proud Mary.flac"
+      },
+      {
+        "songId": "RVMQ",
+        "songTitle": "Down On The Corner",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/04 Down On The Corner.flac"
+      },
+      {
+        "songId": "RFFK",
+        "songTitle": "Green River",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/05 Green River.flac"
+      },
+      {
+        "songId": "9LCC",
+        "songTitle": "Bad Moon Rising",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/06 Bad Moon Rising.flac"
+      },
+      {
+        "songId": "XPXK",
+        "songTitle": "Travelin' Band",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/07 Travelin' Band.flac"
+      },
+      {
+        "songId": "N6SN",
+        "songTitle": "Have You Ever Seen The Rain?",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/08 Have You Ever Seen The Rain.flac"
+      },
+      {
+        "songId": "HIB7",
+        "songTitle": "Up Around The Bend",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/09 Up Around The Bend.flac"
+      },
+      {
+        "songId": "YXHP",
+        "songTitle": "Lodi",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/10 Lodi.flac"
+      },
+      {
+        "songId": "VC4H",
+        "songTitle": "Hey Tonight",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/11 Hey Tonight.flac"
+      },
+      {
+        "songId": "HNSN",
+        "songTitle": "Lookin' Out My Back Door",
+        "artist": "Creedence Clearwater Revival",
+        "pathToSong": "/home/dave/Music/Creedence Clearwater Revival - Greatest Hits (2014) [FLAC]/12 Lookin' Out My Back Door.flac"
+      }
+    ]
+  },
+  {
+    "folderId": "BFKG",
+    "folderName": "Downloaded",
+    "pathToFolder": "/home/dave/Music/Downloaded",
+    "contentsOfFolder": [
+      {
+        "songId": "J93H",
+        "songTitle": "Ace Of Spades",
+        "artist": "Motorhead",
+        "pathToSong": "/home/dave/Music/Downloaded/Ace Of Spades.mp3"
+      },
+      {
+        "songId": "JVL9",
+        "songTitle": "C.R.E.A.M",
+        "artist": "Wu-Tang Clan",
+        "pathToSong": "/home/dave/Music/Downloaded/C.R.E.A.M.MP3"
+      },
+      {
+        "songId": "CBVS",
+        "songTitle": "Kansas",
+        "artist": "Carry On Wayward Son",
+        "pathToSong": "/home/dave/Music/Downloaded/Carry On Wayward Son.mp3"
+      },
+      {
+        "songId": "46FS",
+        "songTitle": "Chop Suey!",
+        "artist": "System Of A Down",
+        "pathToSong": "/home/dave/Music/Downloaded/Chop Suey!.mp3"
+      },
+      {
+        "songId": "71WR",
+        "songTitle": "Damn It Feels Good To Be A Gangsta",
+        "artist": "Geto Boys",
+        "pathToSong": "/home/dave/Music/Downloaded/Damn It Feels Good To Be A Gangster.mp3"
+      },
+      {
+        "songId": "29HM",
+        "songTitle": "Don't Stop Me Now",
+        "artist": "Queen",
+        "pathToSong": "/home/dave/Music/Downloaded/Don't Stop Me Now.mp3"
+      },
+      {
+        "songId": "VNL6",
+        "songTitle": "Fuck Da Police",
+        "artist": "N.W.A.",
+        "pathToSong": "/home/dave/Music/Downloaded/Fuck Da Police.mp3"
+      },
+      {
+        "songId": "R4AY",
+        "songTitle": "Gin And Juice",
+        "artist": "Snoop Dogg",
+        "pathToSong": "/home/dave/Music/Downloaded/Gin And Juice.mp3"
+      },
+      {
+        "songId": "QTIQ",
+        "songTitle": "Guided Breathing",
+        "artist": "Wim Hof",
+        "pathToSong": "/home/dave/Music/Downloaded/Guided Breathing.mp3"
+      },
+      {
+        "songId": "T5T8",
+        "songTitle": "Hit'Em Up (Dirty)",
+        "artist": "2Pac",
+        "pathToSong": "/home/dave/Music/Downloaded/Hit'Em Up.mp3"
+      },
+      {
+        "songId": "BDLI",
+        "songTitle": "Jai Jai Ganesh",
+        "artist": "Gyanu Rana & Jujukaji Ranjit",
+        "pathToSong": "/home/dave/Music/Downloaded/Jai Jai Ganesh.mp3"
+      },
+      {
+        "songId": "KHNP",
+        "songTitle": "Juicy",
+        "artist": "The Notorious B.I.G",
+        "pathToSong": "/home/dave/Music/Downloaded/Juicy.mp3"
+      },
+      {
+        "songId": "N7VI",
+        "songTitle": "Kaha Tak Ye Man Ko",
+        "artist": "Kishore Kumar",
+        "pathToSong": "/home/dave/Music/Downloaded/Kaha Tak Ye Man Ko.mp3"
+      },
+      {
+        "songId": "OB5R",
+        "songTitle": "Kalo Kesh Ma Relimai",
+        "artist": "Dinesh Dhakal",
+        "pathToSong": "/home/dave/Music/Downloaded/Kalo Kesh Ma Relimai.mp3"
+      },
+      {
+        "songId": "GVMA",
+        "songTitle": "Master Of Puppets",
+        "artist": "Metallica",
+        "pathToSong": "/home/dave/Music/Downloaded/Master Of Puppets.mp3"
+      },
+      {
+        "songId": "5HKJ",
+        "songTitle": "Phoolmaya",
+        "artist": "Prakash Saput",
+        "pathToSong": "/home/dave/Music/Downloaded/Phoolmaya.mp3"
+      },
+      {
+        "songId": "CVWD",
+        "songTitle": "Rocket Man",
+        "artist": "Elton John",
+        "pathToSong": "/home/dave/Music/Downloaded/Rocket Man.mp3"
+      },
+      {
+        "songId": "4C8R",
+        "songTitle": "Seven Nation Army",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/Downloaded/Seven Nation Army.mp3"
+      },
+      {
+        "songId": "3SMJ",
+        "songTitle": "Smells Like Teen Spirit",
+        "artist": "Nirvana",
+        "pathToSong": "/home/dave/Music/Downloaded/Smells Like Teen Spirit.mp3"
+      },
+      {
+        "songId": "AYVX",
+        "songTitle": "Tiny Dancer",
+        "artist": "Elton John",
+        "pathToSong": "/home/dave/Music/Downloaded/Tiny Dancer.mp3"
+      },
+      {
+        "songId": "T2ST",
+        "songTitle": "Toxicity",
+        "artist": "System Of A Down",
+        "pathToSong": "/home/dave/Music/Downloaded/Toxicity.mp3"
+      },
+      {
+        "songId": "NLPP",
+        "songTitle": "Waster Years",
+        "artist": "Iron Maiden",
+        "pathToSong": "/home/dave/Music/Downloaded/Wasted Years.mp3"
+      },
+      {
+        "songId": "33HP",
+        "songTitle": "Wrong Impression",
+        "artist": "Natalie Imbruglia",
+        "pathToSong": "/home/dave/Music/Downloaded/Wrong Impression.mp3"
+      }
+    ]
+  },
+  {
+    "folderId": "F8IP",
+    "folderName": "Grateful Dead Studio Albums (1967-1970) [Flac 24.96]",
+    "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]",
+    "contentsOfFolder": [
+      {
+        "folderId": "S5ES",
+        "folderName": "American Beauty (1970)",
+        "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)",
+        "contentsOfFolder": [
+          {
+            "songId": "ZD4I",
+            "songTitle": "Box Of Rain",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/1 Box Of Rain.flac"
+          },
+          {
+            "songId": "HVTL",
+            "songTitle": "Friend Of The Devil",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/2 Friend Of The Devil.flac"
+          },
+          {
+            "songId": "CCCR",
+            "songTitle": "Sugar Magnolia",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/3 Sugar Magnolia.flac"
+          },
+          {
+            "songId": "S2EC",
+            "songTitle": "Operator",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/4 Operator.flac"
+          },
+          {
+            "songId": "IXAW",
+            "songTitle": "Candyman",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/5 Candyman.flac"
+          },
+          {
+            "songId": "BVO9",
+            "songTitle": "Ripple",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/6  Ripple.flac"
+          },
+          {
+            "songId": "HLFE",
+            "songTitle": "Brokedown Palace",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/7 Brokedown Palace.flac"
+          },
+          {
+            "songId": "9F4Q",
+            "songTitle": "'Till The Morning Comes",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/8 'Till The Morning Comes.flac"
+          },
+          {
+            "songId": "DJ7M",
+            "songTitle": "Attics Of My Life",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/9 Attics Of My Life.flac"
+          },
+          {
+            "songId": "CF6Z",
+            "songTitle": "Truckin'",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/American Beauty (1970)/9 Truckin'.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "6AV4",
+        "folderName": "Anthem Of The Sun (1968)",
+        "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)",
+        "contentsOfFolder": [
+          {
+            "songId": "CYGL",
+            "songTitle": "That's It For The Other One",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)/1 That's It For The Other One.flac"
+          },
+          {
+            "songId": "W05N",
+            "songTitle": "New Potato Caboose",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)/2 New Potato Caboose.flac"
+          },
+          {
+            "songId": "0DAS",
+            "songTitle": "Born Cross-Eyed",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)/3 Born Cross-Eyed.flac"
+          },
+          {
+            "songId": "RUSM",
+            "songTitle": "Alligator",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)/4 Alligator.flac"
+          },
+          {
+            "songId": "WV28",
+            "songTitle": "Caution (Do Not Step On Tracks)",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Anthem Of The Sun (1968)/5 Caution (Do Not Step On Tracks).flac"
+          }
+        ]
+      },
+      {
+        "folderId": "UU1A",
+        "folderName": "Aoxomoxoa (1969)",
+        "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)",
+        "contentsOfFolder": [
+          {
+            "songId": "AZT1",
+            "songTitle": "St. Stephen",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/1 St. Stephen.flac"
+          },
+          {
+            "songId": "6SER",
+            "songTitle": "Dupree's Diamond Blues",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/2 Dupree's Diamond Blues.flac"
+          },
+          {
+            "songId": "ZP41",
+            "songTitle": "Rosemary",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/3 Rosemary.flac"
+          },
+          {
+            "songId": "HRYM",
+            "songTitle": "Doin' That Rag",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/4 Doin' That Rag.flac"
+          },
+          {
+            "songId": "DYR6",
+            "songTitle": "Mountains Of The Moon",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/5 Mountains Of The Moon.flac"
+          },
+          {
+            "songId": "9RBI",
+            "songTitle": "China Cat Sunflower",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/6 China Cat Sunflower.flac"
+          },
+          {
+            "songId": "RJ1K",
+            "songTitle": "What's Become Of The Baby",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/7 What's Become Of The Baby.flac"
+          },
+          {
+            "songId": "YUNG",
+            "songTitle": "Cosmic Charlie",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Aoxomoxoa (1969)/8 Cosmic Charlie.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "LFMU",
+        "folderName": "The Grateful Dead (1967)",
+        "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)",
+        "contentsOfFolder": [
+          {
+            "songId": "0EJM",
+            "songTitle": "The Golden Road (To Unlimited Devotion)",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/1 The Golden Road (To Unlimited Devotion).flac"
+          },
+          {
+            "songId": "51M4",
+            "songTitle": "Beat It On Down The Line",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/2 Beat It On Down The Line.flac"
+          },
+          {
+            "songId": "5TPR",
+            "songTitle": "Good Morning Little School Girl",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/3 Good Morning Little School Girl.flac"
+          },
+          {
+            "songId": "7L1C",
+            "songTitle": "Cold Rain And Snow",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/4 Cold Rain And Snow.flac"
+          },
+          {
+            "songId": "8OI1",
+            "songTitle": "Sitting On Top Of The World",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/5 Sitting On Top Of The World.flac"
+          },
+          {
+            "songId": "XXFN",
+            "songTitle": "Cream Puff War",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/6 Cream Puff War.flac"
+          },
+          {
+            "songId": "3SN8",
+            "songTitle": "Morning Dew",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/7  Morning Dew.flac"
+          },
+          {
+            "songId": "V4UG",
+            "songTitle": "New, New Minglewood Blues",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/8 New, New Minglewood Blues.flac"
+          },
+          {
+            "songId": "DR2D",
+            "songTitle": "Viola Lee Blues",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/The Grateful Dead (1967)/9 Viola Lee Blues.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "TOPJ",
+        "folderName": "Workingman's Dead (1970)",
+        "pathToFolder": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)",
+        "contentsOfFolder": [
+          {
+            "songId": "O91K",
+            "songTitle": "Uncle John's Band",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/1 Uncle John's Band.flac"
+          },
+          {
+            "songId": "2MGP",
+            "songTitle": "High Time",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/2 High Time.flac"
+          },
+          {
+            "songId": "OR5V",
+            "songTitle": "Dire Wolf",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/3 Dire Wolf.flac"
+          },
+          {
+            "songId": "YLOE",
+            "songTitle": "New Speedway Boogie",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/4 New Speedway Boogie.flac"
+          },
+          {
+            "songId": "RFG5",
+            "songTitle": "Cumberland Blues",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/5 Cumberland Blues.flac"
+          },
+          {
+            "songId": "88PQ",
+            "songTitle": "Black Peter",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/6 Black Peter.flac"
+          },
+          {
+            "songId": "RQP9",
+            "songTitle": "Easy Wind",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/7 Easy Wind.flac"
+          },
+          {
+            "songId": "LC7B",
+            "songTitle": "Casey Jones",
+            "artist": "Grateful Dead",
+            "pathToSong": "/home/dave/Music/Grateful Dead Studio Albums (1967-1970) [Flac 24.96]/Workingman's Dead (1970)/8 Casey Jones.flac"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "folderId": "AJL0",
+    "folderName": "Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac",
+    "pathToFolder": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac",
+    "contentsOfFolder": [
+      {
+        "songId": "8BYU",
+        "songTitle": "Dark Fantasy",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/01. Dark Fantasy.flac"
+      },
+      {
+        "songId": "4RX1",
+        "songTitle": "Gorgeous [feat. Kid Cudi]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/02. Gorgeous [feat. Kid Cudi].flac"
+      },
+      {
+        "songId": "3XBC",
+        "songTitle": "POWER",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/03. POWER.flac"
+      },
+      {
+        "songId": "OYE2",
+        "songTitle": "All Of The Lights [Interlude]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/04. All Of The Lights [Interlude].flac"
+      },
+      {
+        "songId": "IZGW",
+        "songTitle": "All Of The Lights",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/05. All Of The Lights.flac"
+      },
+      {
+        "songId": "RT1Q",
+        "songTitle": "Monster [feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/06. Monster [feat. Jay-Z, Rick Ross, Nicki Minaj & Bon Iver].flac"
+      },
+      {
+        "songId": "9Y4C",
+        "songTitle": "So Appalled [feat. Jay-Z, Pusha T, CyHi Da Prynce, Swizz Beatz & The RZA]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/07. So Appalled [feat. Jay-Z, Pusha T, CyHi Da Prynce, Swizz Beatz & The RZA].flac"
+      },
+      {
+        "songId": "4FCM",
+        "songTitle": "Devil In A New Dress [feat. Rick Ross]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/08. Devil In A New Dress [feat. Rick Ross].flac"
+      },
+      {
+        "songId": "K6RD",
+        "songTitle": "Runaway [feat. Pusha T]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/09. Runaway [feat. Pusha T].flac"
+      },
+      {
+        "songId": "9PXB",
+        "songTitle": "Hell Of A Life",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/10. Hell Of A Life.flac"
+      },
+      {
+        "songId": "C9VJ",
+        "songTitle": "Blame Game [feat. John Legend]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/11. Blame Game [feat. John Legend].flac"
+      },
+      {
+        "songId": "463T",
+        "songTitle": "Lost In The World [feat. Bon Iver]",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/12. Lost In The World [feat. Bon Iver].flac"
+      },
+      {
+        "songId": "MDYE",
+        "songTitle": "Who Will Survive In America",
+        "artist": "Kanye West",
+        "pathToSong": "/home/dave/Music/Kanye West - My Beautiful Dark Twisted Fantasy (2010) Flac/13. Who Will Survive In America.flac"
+      }
+    ]
+  },
+  {
+    "folderId": "F9S9",
+    "folderName": "Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope",
+    "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope",
+    "contentsOfFolder": [
+      {
+        "folderId": "WEEO",
+        "folderName": "Led Zeppelin - Coda 1982",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982",
+        "contentsOfFolder": [
+          {
+            "songId": "9RZJ",
+            "songTitle": "We're Gonna Groove",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/01. We're Gonna Groove - Led Zeppelin.flac"
+          },
+          {
+            "songId": "OJBF",
+            "songTitle": "Poor Tom",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/02. Poor Tom - Led Zeppelin.flac"
+          },
+          {
+            "songId": "0V7A",
+            "songTitle": "I Can't Quit You Baby",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/03. I Can't Quit You Baby - Led Zeppelin.flac"
+          },
+          {
+            "songId": "UG5E",
+            "songTitle": "Walter's Walk",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/04. Walter's Walk - Led Zeppelin.flac"
+          },
+          {
+            "songId": "65HK",
+            "songTitle": "Ozone Baby",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/05. Ozone Baby - Led Zeppelin.flac"
+          },
+          {
+            "songId": "ZZMD",
+            "songTitle": "Darlene",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/06. Darlene - Led Zeppelin.flac"
+          },
+          {
+            "songId": "IO1J",
+            "songTitle": "Bonzo's Montreux",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/07. Bonzo's Montreux - Led Zeppelin.flac"
+          },
+          {
+            "songId": "6C4G",
+            "songTitle": "Wearing And Tearing",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/08. Wearing And Tearing - Led Zeppelin.flac"
+          },
+          {
+            "songId": "ZHAA",
+            "songTitle": "Baby Come On Home (Bonus)",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/09. Baby Come On Home (Bonus) - Led Zeppelin.flac"
+          },
+          {
+            "songId": "FZXA",
+            "songTitle": "Travelling Riverside Blues (Bonus)",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/10. Travelling Riverside Blues (Bonus) - Led Zeppelin.flac"
+          },
+          {
+            "songId": "0VJS",
+            "songTitle": "White Summer - Black Mountain Side (Bonus)",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/11. White Summer - Black Mountain Side (Bonus) - Led Zeppelin.flac"
+          },
+          {
+            "songId": "3SCT",
+            "songTitle": "Hey Hey What Can I Do (Bonus)",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Coda 1982/12. Hey Hey What Can I Do (Bonus) - Led Zeppelin.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "91SU",
+        "folderName": "Led Zeppelin - Houses of the Holy 1973",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973",
+        "contentsOfFolder": [
+          {
+            "songId": "EPQD",
+            "songTitle": "The Song Remains The Same",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/01. Led Zeppelin - The Song Remains The Same.flac"
+          },
+          {
+            "songId": "BRVM",
+            "songTitle": "The Rain Song",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/02. Led Zeppelin - The Rain Song.flac"
+          },
+          {
+            "songId": "2KLS",
+            "songTitle": "Over The Hills And Far Away",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/03. Led Zeppelin - Over The Hills And Far Away.flac"
+          },
+          {
+            "songId": "12G4",
+            "songTitle": "The Crunge",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/04. Led Zeppelin - The Crunge.flac"
+          },
+          {
+            "songId": "7Z9R",
+            "songTitle": "Dancing Days",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/05. Led Zeppelin - Dancing Days.flac"
+          },
+          {
+            "songId": "4IJB",
+            "songTitle": "D'yer Maker",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/06. Led Zeppelin - D'yer Maker.flac"
+          },
+          {
+            "songId": "IJH5",
+            "songTitle": "No Quarter",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/07. Led Zeppelin - No Quarter.flac"
+          },
+          {
+            "songId": "MQU7",
+            "songTitle": "The Ocean",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Houses of the Holy 1973/08. Led Zeppelin - The Ocean.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "8EF8",
+        "folderName": "Led Zeppelin - In Through The Out Door 1979",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979",
+        "contentsOfFolder": [
+          {
+            "songId": "WR4O",
+            "songTitle": "In The Evening",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/01. In The Evening - Led Zeppelin.flac"
+          },
+          {
+            "songId": "4XYS",
+            "songTitle": "South Bound Saurez",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/02. South Bound Saurez - Led Zeppelin.flac"
+          },
+          {
+            "songId": "8WQI",
+            "songTitle": "Fool In The Rain",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/03. Fool In The Rain - Led Zeppelin.flac"
+          },
+          {
+            "songId": "MWYD",
+            "songTitle": "Hot Dog",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/04. Hot Dog - Led Zeppelin.flac"
+          },
+          {
+            "songId": "XAC7",
+            "songTitle": "Carouselambra",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/05. Carouselambra - Led Zeppelin.flac"
+          },
+          {
+            "songId": "M120",
+            "songTitle": "I'm Gonna Crawl",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/07. I'm Gonna Crawl - Led Zeppelin.flac"
+          },
+          {
+            "songId": "F43O",
+            "songTitle": "All My Love",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - In Through The Out Door 1979/All My Love - Led Zeppelin.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "0JFR",
+        "folderName": "Led Zeppelin - Physical Graffiti 1975",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975",
+        "contentsOfFolder": [
+          {
+            "folderId": "B4X5",
+            "folderName": "Disc 1",
+            "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1",
+            "contentsOfFolder": [
+              {
+                "songId": "HYLH",
+                "songTitle": "Custard Pie",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/01. Led Zeppelin - Custard Pie.flac"
+              },
+              {
+                "songId": "94CD",
+                "songTitle": "The Rover",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/02. Led Zeppelin - The Rover.flac"
+              },
+              {
+                "songId": "K0WL",
+                "songTitle": "In My Time Of Dying",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/03. Led Zeppelin - In My Time Of Dying.flac"
+              },
+              {
+                "songId": "L5UD",
+                "songTitle": "Houses Of The Holy",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/04. Led Zeppelin - Houses Of The Holy.flac"
+              },
+              {
+                "songId": "OQM8",
+                "songTitle": "Trampled Under Foot",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/05. Led Zeppelin - Trampled Under Foot.flac"
+              },
+              {
+                "songId": "29EM",
+                "songTitle": "Kashmir",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 1/06. Led Zeppelin - Kashmir.flac"
+              }
+            ]
+          },
+          {
+            "folderId": "L4GM",
+            "folderName": "Disc 2",
+            "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2",
+            "contentsOfFolder": [
+              {
+                "songId": "JJF8",
+                "songTitle": "In the Light",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/01. Led Zeppelin - In the Light.flac"
+              },
+              {
+                "songId": "NZZ8",
+                "songTitle": "Bron-Yr-Aur",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/02. Led Zeppelin - Bron-Yr-Aur.flac"
+              },
+              {
+                "songId": "JXSL",
+                "songTitle": "Down by the Seaside",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/03. Led Zeppelin - Down by the Seaside.flac"
+              },
+              {
+                "songId": "NTEG",
+                "songTitle": "Ten Years Gone",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/04. Led Zeppelin - Ten Years Gone.flac"
+              },
+              {
+                "songId": "TEP5",
+                "songTitle": "Night Flight",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/05. Led Zeppelin - Night Flight.flac"
+              },
+              {
+                "songId": "YKA9",
+                "songTitle": "The Wanton Song",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/06. Led Zeppelin - The Wanton Song.flac"
+              },
+              {
+                "songId": "ZEFD",
+                "songTitle": "Boogie with Stu",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/07. Led Zeppelin - Boogie with Stu.flac"
+              },
+              {
+                "songId": "39W8",
+                "songTitle": "Black Country Woman",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/08. Led Zeppelin - Black Country Woman.flac"
+              },
+              {
+                "songId": "DJ6I",
+                "songTitle": "Sick Again",
+                "artist": "Led Zeppelin",
+                "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Physical Graffiti 1975/Disc 2/09. Led Zeppelin - Sick Again.flac"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "folderId": "PRM9",
+        "folderName": "Led Zeppelin - Presence 1976",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976",
+        "contentsOfFolder": [
+          {
+            "songId": "Z2S4",
+            "songTitle": "Achilles Last Stand",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/01. Achilles Last Stand - Led Zeppelin.flac"
+          },
+          {
+            "songId": "CQAL",
+            "songTitle": "For Your Life",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/02. For Your Life - Led Zeppelin.flac"
+          },
+          {
+            "songId": "0YAM",
+            "songTitle": "Royal Orleans",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/03. Royal Orleans - Led Zeppelin.flac"
+          },
+          {
+            "songId": "HXMW",
+            "songTitle": "Nobody's Fault But Mine",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/04. Nobody's Fault But Mine - Led Zeppelin.flac"
+          },
+          {
+            "songId": "G8V7",
+            "songTitle": "Candy Store Rock",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/05. Candy Store Rock - Led Zeppelin.flac"
+          },
+          {
+            "songId": "W459",
+            "songTitle": "Hots On For Nowhere",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/06. Hots On For Nowhere - Led Zeppelin.flac"
+          },
+          {
+            "songId": "PZ87",
+            "songTitle": "Tea For One",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - Presence 1976/07. Tea For One - Led Zeppelin.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "071A",
+        "folderName": "Led Zeppelin - l 1969",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969",
+        "contentsOfFolder": [
+          {
+            "songId": "3DE2",
+            "songTitle": "Good Times Bad Times",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/01. Good Times Bad Times - Led Zeppelin.flac"
+          },
+          {
+            "songId": "MSNY",
+            "songTitle": "Babe I'm Gonna Leave You",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/02. Babe I'm Gonna Leave You - Led Zeppelin.flac"
+          },
+          {
+            "songId": "L04L",
+            "songTitle": "You Shook Me",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/03. You Shook Me - Led Zeppelin.flac"
+          },
+          {
+            "songId": "5HRM",
+            "songTitle": "Dazed and Confused",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/04. Dazed and Confused - Led Zeppelin.flac"
+          },
+          {
+            "songId": "PHF9",
+            "songTitle": "Your Time Is Gonna Come",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/05. Your Time Is Gonna Come - Led Zeppelin.flac"
+          },
+          {
+            "songId": "W6G6",
+            "songTitle": "Black Mountain Side",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/06. Black Mountain Side - Led Zeppelin.flac"
+          },
+          {
+            "songId": "TXMT",
+            "songTitle": "Communication Breakdown",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/07. Communication Breakdown - Led Zeppelin.flac"
+          },
+          {
+            "songId": "UT64",
+            "songTitle": "I Can't Quit You Baby",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/08. I Can't Quit You Baby - Led Zeppelin.flac"
+          },
+          {
+            "songId": "N3NE",
+            "songTitle": "How Many More Times",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - l 1969/09. How Many More Times - Led Zeppelin.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "KM3D",
+        "folderName": "Led Zeppelin - lV 1971",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971",
+        "contentsOfFolder": [
+          {
+            "songId": "SSXN",
+            "songTitle": "Black Dog",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/01. Led Zeppelin - Black Dog.flac"
+          },
+          {
+            "songId": "FTV2",
+            "songTitle": "Rock And Roll",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/02. Led Zeppelin - Rock And Roll.flac"
+          },
+          {
+            "songId": "RS1R",
+            "songTitle": "The Battle Of Evermore",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/03. Led Zeppelin - The Battle Of Evermore.flac"
+          },
+          {
+            "songId": "NKO1",
+            "songTitle": "Stairway To Heaven",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/04. Led Zeppelin - Stairway To Heaven.flac"
+          },
+          {
+            "songId": "4K6I",
+            "songTitle": "Misty Mountain Hop",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/05. Led Zeppelin - Misty Mountain Hop.flac"
+          },
+          {
+            "songId": "UQMK",
+            "songTitle": "Four Sticks",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/06. Led Zeppelin - Four Sticks.flac"
+          },
+          {
+            "songId": "2NIM",
+            "songTitle": "Going To California",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/07. Led Zeppelin - Going To California.flac"
+          },
+          {
+            "songId": "LKZO",
+            "songTitle": "When The Levee Breaks",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - lV 1971/08. Led Zeppelin - When The Levee Breaks.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "JC1A",
+        "folderName": "Led Zeppelin - ll 1969",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969",
+        "contentsOfFolder": [
+          {
+            "songId": "H5VU",
+            "songTitle": "Whole Lotta Love",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/01. Led Zeppelin - Whole Lotta Love.flac"
+          },
+          {
+            "songId": "AXW6",
+            "songTitle": "What Is And What Should Never Be",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/02. Led Zeppelin - What Is And What Should Never Be.flac"
+          },
+          {
+            "songId": "A40J",
+            "songTitle": "The Lemon Song",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/03. Led Zeppelin - The Lemon Song.flac"
+          },
+          {
+            "songId": "GK4Q",
+            "songTitle": "Thank You",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/04. Led Zeppelin - Thank You.flac"
+          },
+          {
+            "songId": "S3KF",
+            "songTitle": "Heartbreaker",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/05. Led Zeppelin - Heartbreaker.flac"
+          },
+          {
+            "songId": "2PQE",
+            "songTitle": "Living Loving Maid (She's Just A Woman)",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/06. Led Zeppelin - Living Loving Maid (She's Just A Woman).flac"
+          },
+          {
+            "songId": "86ME",
+            "songTitle": "Ramble On",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/07. Led Zeppelin - Ramble On.flac"
+          },
+          {
+            "songId": "35I5",
+            "songTitle": "Moby Dick",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/08. Led Zeppelin - Moby Dick.flac"
+          },
+          {
+            "songId": "1C3O",
+            "songTitle": "Bring It On Home",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin - ll 1969/09. Led Zeppelin - Bring It On Home.flac"
+          }
+        ]
+      },
+      {
+        "folderId": "BTTO",
+        "folderName": "Led Zeppelin lll - 1970",
+        "pathToFolder": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970",
+        "contentsOfFolder": [
+          {
+            "songId": "1NGL",
+            "songTitle": "Immigrant Song",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/01. Led Zeppelin - Immigrant Song.flac"
+          },
+          {
+            "songId": "DADZ",
+            "songTitle": "Friends",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/02. Led Zeppelin - Friends.flac"
+          },
+          {
+            "songId": "GFVQ",
+            "songTitle": "Celebration Day",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/03. Led Zeppelin - Celebration Day.flac"
+          },
+          {
+            "songId": "O07I",
+            "songTitle": "Since I've Been Loving You",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/04. Led Zeppelin - Since I've Been Loving You.flac"
+          },
+          {
+            "songId": "LVJ9",
+            "songTitle": "Out On The Tiles",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/05. Led Zeppelin - Out On The Tiles.flac"
+          },
+          {
+            "songId": "W2TN",
+            "songTitle": "Gallows Pole",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/06. Led Zeppelin - Gallows Pole.flac"
+          },
+          {
+            "songId": "VSZH",
+            "songTitle": "Tangerine",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/07. Led Zeppelin - Tangerine.flac"
+          },
+          {
+            "songId": "22OD",
+            "songTitle": "That's The Way",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/08. Led Zeppelin - That's The Way.flac"
+          },
+          {
+            "songId": "GG4F",
+            "songTitle": "Bron-Y-Aur Stomp",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/09. Led Zeppelin - Bron-Y-Aur Stomp.flac"
+          },
+          {
+            "songId": "R2S4",
+            "songTitle": "Hats Off To (Roy) Harper",
+            "artist": "Led Zeppelin",
+            "pathToSong": "/home/dave/Music/Led Zeppelin - Studio Discography 1969 - 1982 [FLAC] - Kitlope/Led Zeppelin lll - 1970/10. Led Zeppelin - Hats Off To (Roy) Harper.flac"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "folderId": "S3HK",
+    "folderName": "Nas - Illmatic (1994) [24 bit FLAC] vinyl",
+    "pathToFolder": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl",
+    "contentsOfFolder": [
+      {
+        "songId": "KORA",
+        "songTitle": "The Genesis",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/01. The Genesis.flac"
+      },
+      {
+        "songId": "FBUW",
+        "songTitle": "N.Y. State of Mind",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/02. N.Y. State of Mind.flac"
+      },
+      {
+        "songId": "ZA0H",
+        "songTitle": "Life's a Bitch (ft. A.Z.)",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/03. Life's a Bitch (ft. A.Z.).flac"
+      },
+      {
+        "songId": "CHGF",
+        "songTitle": "The World is Yours",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/04. The World is Yours.flac"
+      },
+      {
+        "songId": "WG6L",
+        "songTitle": "Halftime",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/05. Halftime.flac"
+      },
+      {
+        "songId": "NK7Q",
+        "songTitle": "Memory Lane (Sittin' In Da Park)",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/06. Memory Lane (Sittin' In Da Park).flac"
+      },
+      {
+        "songId": "TWRG",
+        "songTitle": "One Love",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/07. One Love.flac"
+      },
+      {
+        "songId": "ERFF",
+        "songTitle": "One Time 4 Your Mind",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/08. One Time 4 Your Mind.flac"
+      },
+      {
+        "songId": "3BXX",
+        "songTitle": "Represent",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/09. Represent.flac"
+      },
+      {
+        "songId": "JDX3",
+        "songTitle": "It Ain't Hard to Tell",
+        "artist": "Nas",
+        "pathToSong": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/10. It Ain't Hard to Tell.flac"
+      },
+      {
+        "folderId": "5MAW",
+        "folderName": "Covers",
+        "pathToFolder": "/home/dave/Music/Nas - Illmatic (1994) [24 bit FLAC] vinyl/Covers",
+        "contentsOfFolder": []
+      }
+    ]
+  },
+  {
+    "folderId": "3TGJ",
+    "folderName": "Nepathya",
+    "pathToFolder": "/home/dave/Music/Nepathya",
+    "contentsOfFolder": [
+      {
+        "folderId": "AZ2Z",
+        "folderName": "Bheda ko Oon Jasto",
+        "pathToFolder": "/home/dave/Music/Nepathya/Bheda ko Oon Jasto",
+        "contentsOfFolder": [
+          {
+            "songId": "A5JD",
+            "songTitle": "Bheda Ko Oon Jasto",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Bheda ko Oon Jasto/Bheda Ko Oon Jasto.mp3"
+          },
+          {
+            "songId": "XABC",
+            "songTitle": "Sa Karnali",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Bheda ko Oon Jasto/Sa Karnali.mp3"
+          },
+          {
+            "songId": "ZKOQ",
+            "songTitle": "Taal Ko Paani",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Bheda ko Oon Jasto/Taal Ko Pani.mp3"
+          },
+          {
+            "songId": "1UFP",
+            "songTitle": "Yani Maya",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Bheda ko Oon Jasto/Yani Maya.mp3"
+          }
+        ]
+      },
+      {
+        "folderId": "R5EA",
+        "folderName": "Resham",
+        "pathToFolder": "/home/dave/Music/Nepathya/Resham",
+        "contentsOfFolder": [
+          {
+            "songId": "EPNH",
+            "songTitle": "LampateSurati",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Resham/Lampate Surati.mp3"
+          },
+          {
+            "songId": "620L",
+            "songTitle": "Mai Nache Chham Chham",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Resham/Mai Nache Chham Chham.mp3"
+          },
+          {
+            "songId": "GGXS",
+            "songTitle": "Resham",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Resham/Resham.mp3"
+          },
+          {
+            "songId": "IF27",
+            "songTitle": "Yo Jindagani",
+            "artist": "Nepathya",
+            "pathToSong": "/home/dave/Music/Nepathya/Resham/Yo Jindagani.mp3"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "folderId": "2IWA",
+    "folderName": "The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3",
+    "pathToFolder": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3",
+    "contentsOfFolder": [
+      {
+        "songId": "6LXX",
+        "songTitle": "Intro",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/01 The Notorious B.I.G - Intro.mp3"
+      },
+      {
+        "songId": "WFB4",
+        "songTitle": "Things Done Changed",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/02 The Notorious B.I.G - Things Done Changed.mp3"
+      },
+      {
+        "songId": "CV20",
+        "songTitle": "Gimme the Loot",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/03 The Notorious B.I.G - Gimme the Loot.mp3"
+      },
+      {
+        "songId": "IV3J",
+        "songTitle": "Machine Gun Funk (Parliament Sample Removed)",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/04 The Notorious B.I.G - Machine Gun Funk (Parliament Sample Removed).mp3"
+      },
+      {
+        "songId": "RHN6",
+        "songTitle": "Warning",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/05 The Notorious B.I.G - Warning.mp3"
+      },
+      {
+        "songId": "MZ0K",
+        "songTitle": "Ready to Die (Bridgeport Sample Removed)",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/06 The Notorious B.I.G - Ready to Die (Bridgeport Sample Removed).mp3"
+      },
+      {
+        "songId": "UHV2",
+        "songTitle": "One More Chance",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/07 The Notorious B.I.G - One More Chance.mp3"
+      },
+      {
+        "songId": "K3AM",
+        "songTitle": "#!*@ Me",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/08 The Notorious B.I.G - #!-@ Me.mp3"
+      },
+      {
+        "songId": "AOA1",
+        "songTitle": "The What (Featuring Method Man)",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/09 The Notorious B.I.G - The What (Featuring Method Man).mp3"
+      },
+      {
+        "songId": "E2KW",
+        "songTitle": "Juicy",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/10 The Notorious B.I.G - Juicy.mp3"
+      },
+      {
+        "songId": "6GCJ",
+        "songTitle": "Everyday Struggle",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/11 The Notorious B.I.G - Everyday Struggle.mp3"
+      },
+      {
+        "songId": "H3AC",
+        "songTitle": "Me & My B*tch",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/12 The Notorious B.I.G - Me & My B-tch.mp3"
+      },
+      {
+        "songId": "1FMH",
+        "songTitle": "Big Poppa",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/13 The Notorious B.I.G - Big Poppa.mp3"
+      },
+      {
+        "songId": "9ZE1",
+        "songTitle": "Respect",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/14 The Notorious B.I.G - Respect.mp3"
+      },
+      {
+        "songId": "H6G8",
+        "songTitle": "Friend of Mine",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/15 The Notorious B.I.G - Friend of Mine.mp3"
+      },
+      {
+        "songId": "T8Y4",
+        "songTitle": "Unbelievable",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/16 The Notorious B.I.G - Unbelievable.mp3"
+      },
+      {
+        "songId": "W9O9",
+        "songTitle": "Suicidal Thoughts",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/17 The Notorious B.I.G - Suicidal Thoughts.mp3"
+      },
+      {
+        "songId": "JDBC",
+        "songTitle": "Who Shot Ya",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/18 The Notorious B.I.G - Who Shot Ya.mp3"
+      },
+      {
+        "songId": "3JMX",
+        "songTitle": "Just Playing (Dreams)",
+        "artist": "The Notorious B.I.G.",
+        "pathToSong": "/home/dave/Music/The Notorious BIG - Ready To Die - The Remaster 2004 Hip Hop Rap 320kbps CBR MP3/19 The Notorious B.I.G - Just Playing (Dreams).mp3"
+      }
+    ]
+  },
+  {
+    "folderId": "PO5U",
+    "folderName": "The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️",
+    "pathToFolder": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️",
+    "contentsOfFolder": [
+      {
+        "songId": "6TJI",
+        "songTitle": "Jimmy the Exploder",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/01. Jimmy the Exploder.flac"
+      },
+      {
+        "songId": "ITL7",
+        "songTitle": "Stop Breaking Down",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/02. Stop Breaking Down.flac"
+      },
+      {
+        "songId": "KUGT",
+        "songTitle": "The Big Three Killed My Baby",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/03. The Big Three Killed My Baby.flac"
+      },
+      {
+        "songId": "UPJ4",
+        "songTitle": "Suzy Lee",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/04. Suzy Lee.flac"
+      },
+      {
+        "songId": "VOZN",
+        "songTitle": "Sugar Never Tasted So Good",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/05. Sugar Never Tasted So Good.flac"
+      },
+      {
+        "songId": "6C6R",
+        "songTitle": "Wasting My Time",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/06. Wasting My Time.flac"
+      },
+      {
+        "songId": "S69R",
+        "songTitle": "Cannon",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/07. Cannon.flac"
+      },
+      {
+        "songId": "ULYN",
+        "songTitle": "Astro",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/08. Astro.flac"
+      },
+      {
+        "songId": "1ZI0",
+        "songTitle": "Broken Bricks",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/09. Broken Bricks.flac"
+      },
+      {
+        "songId": "LBV4",
+        "songTitle": "When I Hear My Name",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/10. When I Hear My Name.flac"
+      },
+      {
+        "songId": "SHZD",
+        "songTitle": "Do",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/11. Do.flac"
+      },
+      {
+        "songId": "VG5A",
+        "songTitle": "Screwdriver",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/12. Screwdriver.flac"
+      },
+      {
+        "songId": "U1EK",
+        "songTitle": "One More Cup of Coffee",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/13. One More Cup of Coffee.flac"
+      },
+      {
+        "songId": "87LI",
+        "songTitle": "Little People",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/14. Little People.flac"
+      },
+      {
+        "songId": "923Y",
+        "songTitle": "Slicker Drips",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/15. Slicker Drips.flac"
+      },
+      {
+        "songId": "2YOB",
+        "songTitle": "St. James Infirmary Blues",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/16. St. James Infirmary Blues.flac"
+      },
+      {
+        "songId": "JZ7D",
+        "songTitle": "I Fought Piranhas",
+        "artist": "The White Stripes",
+        "pathToSong": "/home/dave/Music/The White Stripes - The White Stripes [24Bit-192kHz] (2021) FLAC [PMEDIA] ⭐️/17. I Fought Piranhas.flac"
+      }
+    ]
+  }
+]
